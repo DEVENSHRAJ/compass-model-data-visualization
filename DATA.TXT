@@ -1,0 +1,1394 @@
+Trend = -89.50 degrees from North in Clockwise direction Plunge = 0.98degrees  A=  9° |   N
+Trend = -89.42 degrees from North in Clockwise direction Plunge = 1.27degrees  A=  9° |   N
+Trend = -89.64 degrees from North in Clockwise direction Plunge = 1.17degrees  A=  9° |   N
+Trend = -89.71 degrees from North in Clockwise direction Plunge = 0.77degrees  A=  9° |   N
+Trend = -89.88 degrees from North in Clockwise direction Plunge = 1.11degrees  A=  9° |   N
+Trend = 89.91 degrees from North in Clockwise direction Plunge = 1.11degrees  A=  9° |   N
+Trend = 89.94 degrees from North in Clockwise direction Plunge = 1.46degrees  A=  9° |   N
+Trend = 89.92 degrees from North in Clockwise direction Plunge = 0.89degrees  A=  9° |   N
+Trend = -89.46 degrees from North in Clockwise direction Plunge = 1.06degrees  A=  9° |   N
+Trend = -89.43 degrees from North in Clockwise direction Plunge = 0.36degrees  A=  9° |   N
+Trend = -89.92 degrees from North in Clockwise direction Plunge = 1.22degrees  A=  9° |   N
+Trend = -89.51 degrees from North in Clockwise direction Plunge = 0.84degrees  A=  9° |   N
+Trend = -89.52 degrees from North in Clockwise direction Plunge = 0.78degrees  A=  9° |   N
+Trend = -89.71 degrees from North in Clockwise direction Plunge = 1.05degrees  A=  9° |   N
+Trend = -89.53 degrees from North in Clockwise direction Plunge = 0.95degrees  A=  9° |   N
+Trend = -89.52 degrees from North in Clockwise direction Plunge = 0.96degrees  A=  9° |   N
+Trend = -89.45 degrees from North in Clockwise direction Plunge = 1.04degrees  A=  9° |   N
+Trend = -89.64 degrees from North in Clockwise direction Plunge = 1.38degrees  A=  9° |   N
+Trend = -89.56 degrees from North in Clockwise direction Plunge = 1.24degrees  A=  9° |   N
+Trend = -89.42 degrees from North in Clockwise direction Plunge = 1.07degrees  A=  9° |   N
+Trend = -89.47 degrees from North in Clockwise direction Plunge = 0.64degrees  A=  9° |   N
+Trend = -89.20 degrees from North in Clockwise direction Plunge = 0.82degrees  A=  9° |   N
+Trend = -89.40 degrees from North in Clockwise direction Plunge = 0.78degrees  A=  3° |   N
+Trend = -89.38 degrees from North in Clockwise direction Plunge = 0.63degrees  A= 13° |   N
+Trend = -89.22 degrees from North in Clockwise direction Plunge = 1.36degrees  A=342° | NNW
+Trend = -89.47 degrees from North in Clockwise direction Plunge = 0.49degrees  A=  8° |   N
+Trend = -89.52 degrees from North in Clockwise direction Plunge = 0.84degrees  A=  9° |   N
+Trend = -89.39 degrees from North in Clockwise direction Plunge = 0.67degrees  A=  9° |   N
+Trend = -89.24 degrees from North in Clockwise direction Plunge = 1.13degrees  A=  9° |   N
+Trend = -89.44 degrees from North in Clockwise direction Plunge = 0.90degrees  A=  9° |   N
+Trend = -89.31 degrees from North in Clockwise direction Plunge = 1.02degrees  A=  9° |   N
+Trend = -87.63 degrees from North in Clockwise direction Plunge = 0.25degrees  A=338° | NNW
+Trend = 75.81 degrees from North in Clockwise direction Plunge = 12.94degrees  A=351° | NNW
+Trend = 75.00 degrees from North in Clockwise direction Plunge = 13.44degrees  A=354° | NNW
+Trend = 74.26 degrees from North in Clockwise direction Plunge = 13.12degrees  A=354° | NNW
+Trend = 74.21 degrees from North in Clockwise direction Plunge = 13.90degrees  A=358° | NNW
+Trend = 70.63 degrees from North in Clockwise direction Plunge = 14.30degrees  A=  0° |   N
+Trend = 87.00 degrees from North in Clockwise direction Plunge = 12.58degrees  A=350° | NNW
+Trend = 73.14 degrees from North in Clockwise direction Plunge = 14.22degrees  A=358° | NNW
+Trend = 73.33 degrees from North in Clockwise direction Plunge = 13.38degrees  A=  0° |   N
+Trend = 72.00 degrees from North in Clockwise direction Plunge = 13.54degrees  A=  0° |   N
+Trend = 71.08 degrees from North in Clockwise direction Plunge = 13.99degrees  A=  0° |   N
+Trend = 71.76 degrees from North in Clockwise direction Plunge = 13.50degrees  A=  0° |   N
+Trend = 76.21 degrees from North in Clockwise direction Plunge = 12.62degrees  A=353° | NNW
+Trend = 81.18 degrees from North in Clockwise direction Plunge = 13.63degrees  A=351° | NNW
+Trend = 77.58 degrees from North in Clockwise direction Plunge = 13.56degrees  A=353° | NNW
+Trend = 78.61 degrees from North in Clockwise direction Plunge = 13.73degrees  A=353° | NNW
+Trend = 79.54 degrees from North in Clockwise direction Plunge = 12.82degrees  A=353° | NNW
+Trend = 77.52 degrees from North in Clockwise direction Plunge = 12.67degrees  A=354° | NNW
+Trend = 79.27 degrees from North in Clockwise direction Plunge = 13.11degrees  A=353° | NNW
+Trend = 79.63 degrees from North in Clockwise direction Plunge = 13.35degrees  A=355° | NNW
+Trend = 75.30 degrees from North in Clockwise direction Plunge = 12.80degrees  A=355° | NNW
+Trend = 77.77 degrees from North in Clockwise direction Plunge = 13.04degrees  A=355° | NNW
+Trend = 76.89 degrees from North in Clockwise direction Plunge = 13.19degrees  A=354° | NNW
+Trend = 77.51 degrees from North in Clockwise direction Plunge = 12.84degrees  A=351° | NNW
+Trend = -84.47 degrees from North in Clockwise direction Plunge = 1.99degrees  A=337° |  NW
+Trend = -88.37 degrees from North in Clockwise direction Plunge = 0.08degrees  A=328° |  NW
+Trend = -87.85 degrees from North in Clockwise direction Plunge = 0.15degrees  A=329° |  NW
+Trend = -87.11 degrees from North in Clockwise direction Plunge = 0.30degrees  A=330° |  NW
+Trend = -88.31 degrees from North in Clockwise direction Plunge = 0.10degrees  A=328° |  NW
+Trend = -87.94 degrees from North in Clockwise direction Plunge = 0.14degrees  A=332° |  NW
+Trend = -89.28 degrees from North in Clockwise direction Plunge = 11.70degrees  A=346° | NNW
+Trend = 83.07 degrees from North in Clockwise direction Plunge = 12.10degrees  A=349° | NNW
+Trend = 86.71 degrees from North in Clockwise direction Plunge = 11.92degrees  A=347° | NNW
+Trend = 88.67 degrees from North in Clockwise direction Plunge = 11.77degrees  A=346° | NNW
+Trend = 88.29 degrees from North in Clockwise direction Plunge = 11.57degrees  A=346° | NNW
+Trend = 78.76 degrees from North in Clockwise direction Plunge = 11.39degrees  A=350° | NNW
+Trend = 80.86 degrees from North in Clockwise direction Plunge = 11.71degrees  A=350° | NNW
+Trend = 84.33 degrees from North in Clockwise direction Plunge = 12.54degrees  A=349° | NNW
+Trend = 79.22 degrees from North in Clockwise direction Plunge = 11.64degrees  A=350° | NNW
+Trend = 89.89 degrees from North in Clockwise direction Plunge = 12.00degrees  A=344° | NNW
+Trend = 84.53 degrees from North in Clockwise direction Plunge = 11.87degrees  A=349° | NNW
+Trend = 80.99 degrees from North in Clockwise direction Plunge = 12.40degrees  A=349° | NNW
+Trend = 81.72 degrees from North in Clockwise direction Plunge = 11.96degrees  A=351° | NNW
+Trend = 81.41 degrees from North in Clockwise direction Plunge = 12.20degrees  A=350° | NNW
+Trend = 82.51 degrees from North in Clockwise direction Plunge = 11.85degrees  A=349° | NNW
+Trend = 81.18 degrees from North in Clockwise direction Plunge = 12.07degrees  A=350° | NNW
+Trend = 83.29 degrees from North in Clockwise direction Plunge = 11.64degrees  A=348° | NNW
+Trend = 83.44 degrees from North in Clockwise direction Plunge = 6.08degrees  A=353° | NNW
+Trend = 80.15 degrees from North in Clockwise direction Plunge = 9.37degrees  A=352° | NNW
+Trend = 81.21 degrees from North in Clockwise direction Plunge = 9.43degrees  A=351° | NNW
+Trend = 80.54 degrees from North in Clockwise direction Plunge = 8.40degrees  A=350° | NNW
+Trend = 77.93 degrees from North in Clockwise direction Plunge = 10.62degrees  A=352° | NNW
+Trend = 78.20 degrees from North in Clockwise direction Plunge = 10.14degrees  A=353° | NNW
+Trend = 77.76 degrees from North in Clockwise direction Plunge = 10.46degrees  A=353° | NNW
+Trend = 77.89 degrees from North in Clockwise direction Plunge = 10.17degrees  A=353° | NNW
+Trend = 79.84 degrees from North in Clockwise direction Plunge = 9.06degrees  A=353° | NNW
+Trend = 73.91 degrees from North in Clockwise direction Plunge = 10.50degrees  A=356° | NNW
+Trend = 77.19 degrees from North in Clockwise direction Plunge = 10.35degrees  A=356° | NNW
+Trend = 78.94 degrees from North in Clockwise direction Plunge = 11.95degrees  A=352° | NNW
+Trend = 78.53 degrees from North in Clockwise direction Plunge = 12.38degrees  A=353° | NNW
+Trend = 77.05 degrees from North in Clockwise direction Plunge = 13.65degrees  A=353° | NNW
+Trend = 77.88 degrees from North in Clockwise direction Plunge = 12.62degrees  A=354° | NNW
+Trend = 75.31 degrees from North in Clockwise direction Plunge = 12.90degrees  A=357° | NNW
+Trend = 74.24 degrees from North in Clockwise direction Plunge = 11.67degrees  A=356° | NNW
+Trend = 74.89 degrees from North in Clockwise direction Plunge = 14.50degrees  A=355° | NNW
+Trend = 89.27 degrees from North in Clockwise direction Plunge = 14.13degrees  A=355° | NNW
+Trend = 87.28 degrees from North in Clockwise direction Plunge = 16.23degrees  A=355° | NNW
+Trend = 87.19 degrees from North in Clockwise direction Plunge = 16.59degrees  A=348° | NNW
+Trend = 84.51 degrees from North in Clockwise direction Plunge = 16.57degrees  A=348° | NNW
+Trend = 81.88 degrees from North in Clockwise direction Plunge = 16.87degrees  A=350° | NNW
+Trend = 86.61 degrees from North in Clockwise direction Plunge = 18.20degrees  A=351° | NNW
+Trend = 77.33 degrees from North in Clockwise direction Plunge = 18.17degrees  A=351° | NNW
+Trend = 79.20 degrees from North in Clockwise direction Plunge = 17.66degrees  A=351° | NNW
+Trend = 82.70 degrees from North in Clockwise direction Plunge = 17.64degrees  A=351° | NNW
+Trend = 82.41 degrees from North in Clockwise direction Plunge = 17.90degrees  A=351° | NNW
+Trend = 79.62 degrees from North in Clockwise direction Plunge = 17.84degrees  A=351° | NNW
+Trend = 83.33 degrees from North in Clockwise direction Plunge = 17.30degrees  A=351° | NNW
+Trend = 84.07 degrees from North in Clockwise direction Plunge = 17.45degrees  A=351° | NNW
+Trend = 78.01 degrees from North in Clockwise direction Plunge = 16.80degrees  A=353° | NNW
+Trend = 75.44 degrees from North in Clockwise direction Plunge = 18.32degrees  A=356° | NNW
+Trend = 71.70 degrees from North in Clockwise direction Plunge = 19.31degrees  A=357° | NNW
+Trend = -89.75 degrees from North in Clockwise direction Plunge = 15.28degrees  A=345° | NNW
+Trend = -85.96 degrees from North in Clockwise direction Plunge = 12.60degrees  A=347° | NNW
+Trend = 87.30 degrees from North in Clockwise direction Plunge = 14.40degrees  A=347° | NNW
+Trend = -88.76 degrees from North in Clockwise direction Plunge = 15.24degrees  A=347° | NNW
+Trend = 78.38 degrees from North in Clockwise direction Plunge = 17.35degrees  A=347° | NNW
+Trend = 76.84 degrees from North in Clockwise direction Plunge = 15.69degrees  A=347° | NNW
+Trend = 79.87 degrees from North in Clockwise direction Plunge = 17.28degrees  A=352° | NNW
+Trend = 81.60 degrees from North in Clockwise direction Plunge = 16.31degrees  A=352° | NNW
+Trend = 83.52 degrees from North in Clockwise direction Plunge = 17.11degrees  A=354° | NNW
+Trend = 85.13 degrees from North in Clockwise direction Plunge = 17.06degrees  A=348° | NNW
+Trend = -89.87 degrees from North in Clockwise direction Plunge = 15.34degrees  A=346° | NNW
+Trend = 85.70 degrees from North in Clockwise direction Plunge = 16.40degrees  A=346° | NNW
+Trend = 81.68 degrees from North in Clockwise direction Plunge = 17.91degrees  A=346° | NNW
+Trend = 71.77 degrees from North in Clockwise direction Plunge = 18.75degrees  A=346° | NNW
+Trend = 71.45 degrees from North in Clockwise direction Plunge = 17.28degrees  A=346° | NNW
+Trend = 76.43 degrees from North in Clockwise direction Plunge = 16.40degrees  A=346° | NNW
+Trend = 81.00 degrees from North in Clockwise direction Plunge = 17.13degrees  A=346° | NNW
+Trend = 83.33 degrees from North in Clockwise direction Plunge = 16.57degrees  A=346° | NNW
+Trend = 81.01 degrees from North in Clockwise direction Plunge = 17.09degrees  A=351° | NNW
+Trend = -74.51 degrees from North in Clockwise direction Plunge = 4.91degrees  A=324° |  NW
+Trend = -78.64 degrees from North in Clockwise direction Plunge = 3.25degrees  A=327° |  NW
+Trend = -80.98 degrees from North in Clockwise direction Plunge = 6.03degrees  A=337° |  NW
+Trend = -85.51 degrees from North in Clockwise direction Plunge = 0.66degrees  A=330° |  NW
+Trend = -87.24 degrees from North in Clockwise direction Plunge = 0.24degrees  A=330° |  NW
+Trend = -86.82 degrees from North in Clockwise direction Plunge = 0.35degrees  A=329° |  NW
+Trend = -86.06 degrees from North in Clockwise direction Plunge = 0.55degrees  A=330° |  NW
+Trend = -87.57 degrees from North in Clockwise direction Plunge = 0.18degrees  A=328° |  NW
+Trend = -87.55 degrees from North in Clockwise direction Plunge = 0.18degrees  A=327° |  NW
+Trend = -84.79 degrees from North in Clockwise direction Plunge = 1.37degrees  A=336° |  NW
+Trend = -76.76 degrees from North in Clockwise direction Plunge = 11.43degrees  A=331° |  NW
+Trend = -88.96 degrees from North in Clockwise direction Plunge = 0.02degrees  A=311° | WNW
+Trend = -69.61 degrees from North in Clockwise direction Plunge = 1.43degrees  A=185° |   S
+Trend = -59.76 degrees from North in Clockwise direction Plunge = 1.60degrees  A=267° | WSW
+Trend = 82.37 degrees from North in Clockwise direction Plunge = 0.41degrees  A=306° | WNW
+Trend = -86.37 degrees from North in Clockwise direction Plunge = 9.45degrees  A=345° | NNW
+Trend = -89.51 degrees from North in Clockwise direction Plunge = 11.38degrees  A=345° | NNW
+Trend = -84.25 degrees from North in Clockwise direction Plunge = 7.49degrees  A=342° | NNW
+Trend = -83.16 degrees from North in Clockwise direction Plunge = 3.91degrees  A=339° | NNW
+Trend = -83.49 degrees from North in Clockwise direction Plunge = 2.97degrees  A=337° |  NW
+Trend = -85.07 degrees from North in Clockwise direction Plunge = 0.93degrees  A=332° |  NW
+Trend = -85.02 degrees from North in Clockwise direction Plunge = 0.88degrees  A=331° |  NW
+Trend = -84.61 degrees from North in Clockwise direction Plunge = 1.01degrees  A=331° |  NW
+Trend = -85.49 degrees from North in Clockwise direction Plunge = 0.61degrees  A=329° |  NW
+Trend = -83.87 degrees from North in Clockwise direction Plunge = 1.64degrees  A=332° |  NW
+Trend = -81.56 degrees from North in Clockwise direction Plunge = 2.92degrees  A=333° |  NW
+Trend = -86.01 degrees from North in Clockwise direction Plunge = 0.40degrees  A=327° |  NW
+Trend = -86.71 degrees from North in Clockwise direction Plunge = 0.24degrees  A=326° |  NW
+Trend = -86.99 degrees from North in Clockwise direction Plunge = 0.20degrees  A=327° |  NW
+Trend = -88.59 degrees from North in Clockwise direction Plunge = 0.04degrees  A=325° |  NW
+Trend = -87.70 degrees from North in Clockwise direction Plunge = 0.12degrees  A=326° |  NW
+Trend = -89.44 degrees from North in Clockwise direction Plunge = 0.01degrees  A=322° |  NW
+Trend = -88.28 degrees from North in Clockwise direction Plunge = 0.05degrees  A=322° |  NW
+Trend = -88.75 degrees from North in Clockwise direction Plunge = 0.03degrees  A=323° |  NW
+Trend = -89.09 degrees from North in Clockwise direction Plunge = 0.01degrees  A=324° |  NW
+Trend = 85.13 degrees from North in Clockwise direction Plunge = 0.30degrees  A=323° |  NW
+Trend = 86.75 degrees from North in Clockwise direction Plunge = 0.13degrees  A=323° |  NW
+Trend = 85.83 degrees from North in Clockwise direction Plunge = 0.20degrees  A=323° |  NW
+Trend = 83.82 degrees from North in Clockwise direction Plunge = 0.38degrees  A=317° |  NW
+Trend = -89.99 degrees from North in Clockwise direction Plunge = 0.00degrees  A=324° |  NW
+Trend = -88.77 degrees from North in Clockwise direction Plunge = 0.04degrees  A=326° |  NW
+Trend = 89.58 degrees from North in Clockwise direction Plunge = 0.00degrees  A=324° |  NW
+Trend = 88.60 degrees from North in Clockwise direction Plunge = 0.03degrees  A=323° |  NW
+Trend = 87.36 degrees from North in Clockwise direction Plunge = 0.10degrees  A=324° |  NW
+Trend = -88.85 degrees from North in Clockwise direction Plunge = 0.03degrees  A=330° |  NW
+Trend = -88.19 degrees from North in Clockwise direction Plunge = 0.07degrees  A=328° |  NW
+Trend = -89.53 degrees from North in Clockwise direction Plunge = 0.00degrees  A=323° |  NW
+Trend = -89.61 degrees from North in Clockwise direction Plunge = 0.00degrees  A=322° |  NW
+Trend = 82.28 degrees from North in Clockwise direction Plunge = 12.70degrees  A=356° | NNW
+Trend = -83.62 degrees from North in Clockwise direction Plunge = 8.11degrees  A=342° | NNW
+Trend = -86.25 degrees from North in Clockwise direction Plunge = 9.99degrees  A=346° | NNW
+Trend = 82.73 degrees from North in Clockwise direction Plunge = 11.60degrees  A=346° | NNW
+Trend = 88.48 degrees from North in Clockwise direction Plunge = 11.97degrees  A=347° | NNW
+Trend = 85.80 degrees from North in Clockwise direction Plunge = 12.55degrees  A=348° | NNW
+Trend = 88.80 degrees from North in Clockwise direction Plunge = 11.96degrees  A=346° | NNW
+Trend = 86.83 degrees from North in Clockwise direction Plunge = 12.57degrees  A=347° | NNW
+Trend = 84.70 degrees from North in Clockwise direction Plunge = 12.26degrees  A=347° | NNW
+Trend = 89.48 degrees from North in Clockwise direction Plunge = 13.08degrees  A=344° | NNW
+Trend = 86.00 degrees from North in Clockwise direction Plunge = 12.72degrees  A=346° | NNW
+Trend = 81.73 degrees from North in Clockwise direction Plunge = 13.08degrees  A=349° | NNW
+Trend = 84.42 degrees from North in Clockwise direction Plunge = 12.42degrees  A=347° | NNW
+Trend = 84.94 degrees from North in Clockwise direction Plunge = 12.77degrees  A=345° | NNW
+Trend = 85.17 degrees from North in Clockwise direction Plunge = 13.33degrees  A=348° | NNW
+Trend = 81.56 degrees from North in Clockwise direction Plunge = 12.95degrees  A=350° | NNW
+Trend = 81.46 degrees from North in Clockwise direction Plunge = 13.00degrees  A=351° | NNW
+Trend = 81.10 degrees from North in Clockwise direction Plunge = 13.06degrees  A=352° | NNW
+Trend = 78.49 degrees from North in Clockwise direction Plunge = 12.29degrees  A=349° | NNW
+Trend = 77.42 degrees from North in Clockwise direction Plunge = 12.57degrees  A=349° | NNW
+Trend = 77.25 degrees from North in Clockwise direction Plunge = 12.18degrees  A=352° | NNW
+Trend = 78.57 degrees from North in Clockwise direction Plunge = 12.64degrees  A=350° | NNW
+Trend = 79.68 degrees from North in Clockwise direction Plunge = 11.94degrees  A=350° | NNW
+Trend = 82.19 degrees from North in Clockwise direction Plunge = 11.51degrees  A=349° | NNW
+Trend = 80.83 degrees from North in Clockwise direction Plunge = 9.53degrees  A=350° | NNW
+Trend = 75.37 degrees from North in Clockwise direction Plunge = 11.06degrees  A=353° | NNW
+Trend = 73.99 degrees from North in Clockwise direction Plunge = 11.94degrees  A=355° | NNW
+Trend = 73.90 degrees from North in Clockwise direction Plunge = 12.26degrees  A=355° | NNW
+Trend = 75.26 degrees from North in Clockwise direction Plunge = 12.41degrees  A=355° | NNW
+Trend = 72.90 degrees from North in Clockwise direction Plunge = 13.14degrees  A=356° | NNW
+Trend = 74.35 degrees from North in Clockwise direction Plunge = 11.90degrees  A=355° | NNW
+Trend = 71.62 degrees from North in Clockwise direction Plunge = 12.53degrees  A=358° | NNW
+Trend = 78.74 degrees from North in Clockwise direction Plunge = 11.80degrees  A=353° | NNW
+Trend = 72.51 degrees from North in Clockwise direction Plunge = 12.54degrees  A=357° | NNW
+Trend = 73.88 degrees from North in Clockwise direction Plunge = 12.55degrees  A=354° | NNW
+Trend = 72.23 degrees from North in Clockwise direction Plunge = 11.27degrees  A=357° | NNW
+Trend = 73.74 degrees from North in Clockwise direction Plunge = 11.92degrees  A=355° | NNW
+Trend = 75.10 degrees from North in Clockwise direction Plunge = 11.70degrees  A=355° | NNW
+Trend = 75.42 degrees from North in Clockwise direction Plunge = 11.20degrees  A=355° | NNW
+Trend = 74.76 degrees from North in Clockwise direction Plunge = 12.29degrees  A=354° | NNW
+Trend = 74.78 degrees from North in Clockwise direction Plunge = 11.99degrees  A=353° | NNW
+Trend = 80.34 degrees from North in Clockwise direction Plunge = 11.88degrees  A=357° | NNW
+Trend = 74.73 degrees from North in Clockwise direction Plunge = 12.57degrees  A=356° | NNW
+Trend = 72.10 degrees from North in Clockwise direction Plunge = 13.29degrees  A=359° | NNW
+Trend = 54.74 degrees from North in Clockwise direction Plunge = 16.69degrees  A= 13° |   N
+Trend = 63.00 degrees from North in Clockwise direction Plunge = 13.73degrees  A=  5° |   N
+Trend = 67.88 degrees from North in Clockwise direction Plunge = 13.63degrees  A=  1° |   N
+Trend = 70.26 degrees from North in Clockwise direction Plunge = 12.44degrees  A=  0° |   N
+Trend = 83.86 degrees from North in Clockwise direction Plunge = 12.58degrees  A=348° | NNW
+Trend = -83.60 degrees from North in Clockwise direction Plunge = 4.48degrees  A=344° | NNW
+Trend = -86.44 degrees from North in Clockwise direction Plunge = 9.85degrees  A=345° | NNW
+Trend = 79.09 degrees from North in Clockwise direction Plunge = 10.24degrees  A=354° | NNW
+Trend = 79.22 degrees from North in Clockwise direction Plunge = 11.37degrees  A=354° | NNW
+Trend = 78.22 degrees from North in Clockwise direction Plunge = 10.12degrees  A=356° | NNW
+Trend = 76.97 degrees from North in Clockwise direction Plunge = 12.04degrees  A=356° | NNW
+Trend = 69.16 degrees from North in Clockwise direction Plunge = 14.12degrees  A=  1° |   N
+Trend = 85.24 degrees from North in Clockwise direction Plunge = 10.16degrees  A= 13° |   N
+Trend = 54.15 degrees from North in Clockwise direction Plunge = 16.85degrees  A= 15° |   N
+Trend = 65.75 degrees from North in Clockwise direction Plunge = 14.76degrees  A=  6° |   N
+Trend = 82.16 degrees from North in Clockwise direction Plunge = 8.06degrees  A=350° | NNW
+Trend = 82.61 degrees from North in Clockwise direction Plunge = 0.47degrees  A=306° | WNW
+Trend = 77.32 degrees from North in Clockwise direction Plunge = 0.83degrees  A=305° | WNW
+Trend = 84.40 degrees from North in Clockwise direction Plunge = 0.33degrees  A=317° |  NW
+Trend = -89.99 degrees from North in Clockwise direction Plunge = 0.00degrees  A=323° |  NW
+Trend = -89.89 degrees from North in Clockwise direction Plunge = 0.00degrees  A=318° |  NW
+Trend = 86.27 degrees from North in Clockwise direction Plunge = 0.14degrees  A=315° |  NW
+Trend = 88.98 degrees from North in Clockwise direction Plunge = 0.01degrees  A=323° |  NW
+Trend = -87.52 degrees from North in Clockwise direction Plunge = 0.13degrees  A=326° |  NW
+Trend = -87.97 degrees from North in Clockwise direction Plunge = 0.08degrees  A=324° |  NW
+Trend = -89.26 degrees from North in Clockwise direction Plunge = 0.01degrees  A=322° |  NW
+Trend = 89.81 degrees from North in Clockwise direction Plunge = 0.00degrees  A=326° |  NW
+Trend = 88.55 degrees from North in Clockwise direction Plunge = 0.03degrees  A=323° |  NW
+Trend = 89.02 degrees from North in Clockwise direction Plunge = 0.02degrees  A=318° |  NW
+Trend = -86.35 degrees from North in Clockwise direction Plunge = 0.28degrees  A=325° |  NW
+Trend = -86.77 degrees from North in Clockwise direction Plunge = 0.29degrees  A=339° | NNW
+Trend = -83.51 degrees from North in Clockwise direction Plunge = 1.54degrees  A=338° | NNW
+Trend = 81.01 degrees from North in Clockwise direction Plunge = 12.02degrees  A=359° | NNW
+Trend = 71.62 degrees from North in Clockwise direction Plunge = 13.93degrees  A=  1° |   N
+Trend = 69.74 degrees from North in Clockwise direction Plunge = 12.69degrees  A=  5° |   N
+Trend = 69.81 degrees from North in Clockwise direction Plunge = 12.24degrees  A=  6° |   N
+Trend = 28.78 degrees from North in Clockwise direction Plunge = 22.69degrees  A= 25° | NNE
+Trend = -53.73 degrees from North in Clockwise direction Plunge = 16.18degrees  A= 43° | NNE
+Trend = 47.50 degrees from North in Clockwise direction Plunge = 18.91degrees  A= 13° |   N
+Trend = -83.24 degrees from North in Clockwise direction Plunge = 5.93degrees  A=342° | NNW
+Trend = 71.07 degrees from North in Clockwise direction Plunge = 14.90degrees  A=  2° |   N
+76.47 degrees from North in Clockwise direction Plunge = 6.72degrees  A=  1° |   N
+Trend = 63.68 degrees from North in Clockwise direction Plunge = 17.49degrees  A= 13° |   N
+Trend = 70.22 degrees from North in Clockwise direction Plunge = 14.14degrees  A=  3° |   N
+Trend = 86.71 degrees from North in Clockwise direction Plunge = 12.86degrees  A=349° | NNW
+Trend = 80.40 degrees from North in Clockwise direction Plunge = 12.32degrees  A=354° | NNW
+Trend = -87.08 degrees from North in Clockwise direction Plunge = 0.18degrees  A=354° | NNW
+Trend = 89.17 degrees from North in Clockwise direction Plunge = 0.01degrees  A=354° | NNW
+Trend = -84.41 degrees from North in Clockwise direction Plunge = 5.70degrees  A=354° | NNW
+Trend = -84.69 degrees from North in Clockwise direction Plunge = 9.36degrees  A=354° | NNW
+Trend = 73.22 degrees from North in Clockwise direction Plunge = 11.48degrees  A=  2° |   N
+Trend = 60.27 degrees from North in Clockwise direction Plunge = 18.83degrees  A= 10° |   N
+Trend = 84.01 degrees from North in Clockwise direction Plunge = 13.40degrees  A=356° | NNW
+Trend = -82.70 degrees from North in Clockwise direction Plunge = 7.55degrees  A=345° | NNW
+Trend = -84.10 degrees from North in Clockwise direction Plunge = 0.68degrees  A=335° |  NW
+Trend = -89.66 degrees from North in Clockwise direction Plunge = 11.38degrees  A=352° | NNW
+Trend = 43.82 degrees from North in Clockwise direction Plunge = 23.31degrees  A= 19° |   N
+Trend = 84.60 degrees from North in Clockwise direction Plunge = 24.58degrees  A=358° | NNW
+Trend = 80.87 degrees from North in Clockwise direction Plunge = 18.41degrees  A=353° | NNW
+Trend = -60.19 degrees from North in Clockwise direction Plunge = 5.78degrees  A=331° |  NW
+Trend = 47.64 degrees from North in Clockwise direction Plunge = 13.67degrees  A= 82° | ENE
+Trend = 50.26 degrees from North in Clockwise direction Plunge = 8.39degrees  A= 48° |  NE
+Trend = -83.85 degrees from North in Clockwise direction Plunge = 0.37degrees  A=326° |  NW
+Trend = -76.17 degrees from North in Clockwise direction Plunge = 7.81degrees  A=342° | NNW
+Trend = -76.87 degrees from North in Clockwise direction Plunge = 23.56degrees  A=349° | NNW
+Trend = 84.92 degrees from North in Clockwise direction Plunge = 22.56degrees  A=357° | NNW
+Trend = 70.51 degrees from North in Clockwise direction Plunge = 2.33degrees  A=  0° |   N
+Trend = 82.50 degrees from North in Clockwise direction Plunge = 2.24degrees  A=  0° |   N
+Trend = 88.18 degrees from North in Clockwise direction Plunge = 5.33degrees  A=  0° |   N
+Trend = 71.38 degrees from North in Clockwise direction Plunge = 5.11degrees  A=  0° |   N
+Trend = 59.54 degrees from North in Clockwise direction Plunge = 15.99degrees  A=  0° |   N
+Trend = 7.44 degrees from North in Clockwise direction Plunge = 20.20degrees  A=  0° |   N
+Trend = -39.12 degrees from North in Clockwise direction Plunge = 15.96degrees  A=  0° |   N
+Trend = 78.46 degrees from North in Clockwise direction Plunge = 14.69degrees  A=  0° |   N
+Trend = -68.38 degrees from North in Clockwise direction Plunge = 11.07degrees  A=  0° |   N
+Trend = 69.77 degrees from North in Clockwise direction Plunge = 12.80degrees  A=  0° |   N
+Trend = 50.22 degrees from North in Clockwise direction Plunge = 16.59degrees  A=  0° |   N
+Trend = 76.87 degrees from North in Clockwise direction Plunge = 16.11degrees  A=  0° |   N
+Trend = 64.17 degrees from North in Clockwise direction Plunge = 3.45degrees  A=  0° |   N
+Trend = -85.10 degrees from North in Clockwise direction Plunge = 0.80degrees  A=  0° |   N
+Trend = 76.21 degrees from North in Clockwise direction Plunge = 12.87degrees  A=  0° |   N
+Trend = -2.80 degrees from North in Clockwise direction Plunge = 18.40degrees  A=  0° |   N
+Trend = -28.76 degrees from North in Clockwise direction Plunge = 27.18degrees  A=  0° |   N
+Trend = -60.19 degrees from North in Clockwise direction Plunge = 19.31degrees  A=  0° |   N
+Trend = 84.44 degrees from North in Clockwise direction Plunge = 10.22degrees  A=  0° |   N
+Trend = 88.46 degrees from North in Clockwise direction Plunge = 0.06degrees  A=  0° |   N
+Trend = 86.22 degrees from North in Clockwise direction Plunge = 0.46degrees  A=  0° |   N
+Trend = 89.26 degrees from North in Clockwise direction Plunge = 0.01degrees  A=  0° |   N
+Trend = 89.48 degrees from North in Clockwise direction Plunge = 0.00degrees  A=  0° |   N
+Trend = 87.91 degrees from North in Clockwise direction Plunge = 0.09degrees  A=  0° |   N
+Trend = 82.90 degrees from North in Clockwise direction Plunge = 6.62degrees  A=  0° |   N
+Trend = -81.89 degrees from North in Clockwise direction Plunge = 12.20degrees  A=  0° |   N
+Trend = 86.82 degrees from North in Clockwise direction Plunge = 12.56degrees  A=  0° |   N
+Trend = 87.56 degrees from North in Clockwise direction Plunge = 0.15degrees  A=  0° |   N
+Trend = 82.31 degrees from North in Clockwise direction Plunge = 2.37degrees  A=  0° |   N
+Trend = 87.74 degrees from North in Clockwise direction Plunge = 0.14degrees  A=  0° |   N
+Trend = 87.55 degrees from North in Clockwise direction Plunge = 0.13degrees  A=  0° |   N
+Trend = 85.10 degrees from North in Clockwise direction Plunge = 0.48degrees  A=  0° |   N
+Trend = 88.19 degrees from North in Clockwise direction Plunge = 0.08degrees  A=  0° |   N
+Trend = 89.47 degrees from North in Clockwise direction Plunge = 0.00degrees  A=  0° |   N
+Trend = 80.75 degrees from North in Clockwise direction Plunge = 0.50degrees  A=  0° |   N
+Trend = 64.32 degrees from North in Clockwise direction Plunge = 1.64degrees  A=  0° |   N
+Trend = 59.80 degrees from North in Clockwise direction Plunge = 47.48degrees  A=  0° |   N
+Trend = 70.03 degrees from North in Clockwise direction Plunge = 41.28degrees  A=  0° |   N
+Trend = 62.10 degrees from North in Clockwise direction Plunge = 43.22degrees  A=  0° |   N
+Trend = 50.07 degrees from North in Clockwise direction Plunge = 45.12degrees  A=  0° |   N
+Trend = -66.40 degrees from North in Clockwise direction Plunge = 11.30degrees  A=  0° |   N
+Trend = 66.90 degrees from North in Clockwise direction Plunge = 49.09degrees  A=  0° |   N
+Trend = 53.20 degrees from North in Clockwise direction Plunge = 39.25degrees  A=  0° |   N
+Trend = 51.99 degrees from North in Clockwise direction Plunge = 41.09degrees  A= 27° | NNE
+Trend = 53.67 degrees from North in Clockwise direction Plunge = 39.84degrees  A= 27° | NNE
+Trend = 48.69 degrees from North in Clockwise direction Plunge = 40.72degrees  A= 27° | NNE
+Trend = 49.28 degrees from North in Clockwise direction Plunge = 42.09degrees  A= 27° | NNE
+Trend = 47.04 degrees from North in Clockwise direction Plunge = 42.05degrees  A= 27° | NNE
+Trend = 49.10 degrees from North in Clockwise direction Plunge = 40.96degrees  A= 27° | NNE
+Trend = 32.62 degrees from North in Clockwise direction Plunge = 44.73degrees  A= 27° | NNE
+Trend = 36.53 degrees from North in Clockwise direction Plunge = 43.78degrees  A= 27° | NNE
+Trend = 34.47 degrees from North in Clockwise direction Plunge = 41.89degrees  A= 27° | NNE
+Trend = 51.61 degrees from North in Clockwise direction Plunge = 49.65degrees  A= 27° | NNE
+Trend = 71.84 degrees from North in Clockwise direction Plunge = 23.57degrees  A= 27° | NNE
+Trend = 66.60 degrees from North in Clockwise direction Plunge = 37.13degrees  A= 27° | NNE
+Trend = 23.60 degrees from North in Clockwise direction Plunge = 34.22degrees  A= 27° | NNE
+Trend = 11.78 degrees from North in Clockwise direction Plunge = 33.14degrees  A= 27° | NNE
+Trend = -29.90 degrees from North in Clockwise direction Plunge = 29.31degrees  A= 27° | NNE
+Trend = 12.09 degrees from North in Clockwise direction Plunge = 33.15degrees  A= 27° | NNE
+Trend = -42.05 degrees from North in Clockwise direction Plunge = 26.89degrees  A= 27° | NNE
+Trend = -29.64 degrees from North in Clockwise direction Plunge = 29.91degrees  A= 27° | NNE
+Trend = 11.83 degrees from North in Clockwise direction Plunge = 34.16degrees  A= 27° | NNE
+Trend = 11.61 degrees from North in Clockwise direction Plunge = 38.90degrees  A= 27° | NNE
+Trend = 42.02 degrees from North in Clockwise direction Plunge = 33.23degrees  A= 27° | NNE
+Trend = 45.22 degrees from North in Clockwise direction Plunge = 31.96degrees  A= 27° | NNE
+Trend = 44.97 degrees from North in Clockwise direction Plunge = 31.98degrees  A= 27° | NNE
+Trend = 48.32 degrees from North in Clockwise direction Plunge = 31.49degrees  A= 27° | NNE
+Trend = 45.21 degrees from North in Clockwise direction Plunge = 32.54degrees  A= 27° | NNE
+Trend = 37.48 degrees from North in Clockwise direction Plunge = 33.99degrees  A= 27° | NNE
+Trend = 35.03 degrees from North in Clockwise direction Plunge = 34.27degrees  A= 27° | NNE
+Trend = 42.41 degrees from North in Clockwise direction Plunge = 32.42degrees  A= 27° | NNE
+Trend = 40.22 degrees from North in Clockwise direction Plunge = 32.78degrees  A= 27° | NNE
+Trend = 38.17 degrees from North in Clockwise direction Plunge = 33.19degrees  A= 27° | NNE
+Trend = 17.41 degrees from North in Clockwise direction Plunge = 41.65degrees  A= 27° | NNE
+Trend = 33.44 degrees from North in Clockwise direction Plunge = 36.81degrees  A= 27° | NNE
+Trend = 42.39 degrees from North in Clockwise direction Plunge = 36.55degrees  A= 27° | NNE
+Trend = 30.05 degrees from North in Clockwise direction Plunge = 40.10degrees  A= 27° | NNE
+Trend = 28.77 degrees from North in Clockwise direction Plunge = 40.43degrees  A= 27° | NNE
+Trend = 27.94 degrees from North in Clockwise direction Plunge = 40.55degrees  A= 27° | NNE
+Trend = 23.96 degrees from North in Clockwise direction Plunge = 40.75degrees  A= 27° | NNE
+Trend = 14.69 degrees from North in Clockwise direction Plunge = 42.64degrees  A= 27° | NNE
+Trend = 15.65 degrees from North in Clockwise direction Plunge = 42.07degrees  A= 27° | NNE
+Trend = 16.18 degrees from North in Clockwise direction Plunge = 41.49degrees  A= 27° | NNE
+Trend = 16.37 degrees from North in Clockwise direction Plunge = 41.12degrees  A= 27° | NNE
+Trend = 14.29 degrees from North in Clockwise direction Plunge = 41.61degrees  A= 27° | NNE
+Trend = 16.17 degrees from North in Clockwise direction Plunge = 42.01degrees  A= 27° | NNE
+Trend = 15.31 degrees from North in Clockwise direction Plunge = 41.50degrees  A= 27° | NNE
+Trend = 12.01 degrees from North in Clockwise direction Plunge = 41.56degrees  A= 27° | NNE
+Trend = 4.64 degrees from North in Clockwise direction Plunge = 40.79degrees  A= 27° | NNE
+Trend = 6.00 degrees from North in Clockwise direction Plunge = 42.15degrees  A= 27° | NNE
+Trend = 12.63 degrees from North in Clockwise direction Plunge = 41.95degrees  A= 27° | NNE
+Trend = 14.02 degrees from North in Clockwise direction Plunge = 41.71degrees  A= 27° | NNE
+Trend = 18.02 degrees from North in Clockwise direction Plunge = 41.45degrees  A= 27° | NNE
+Trend = 20.81 degrees from North in Clockwise direction Plunge = 43.21degrees  A= 27° | NNE
+Trend = 30.93 degrees from North in Clockwise direction Plunge = 39.03degrees  A= 27° | NNE
+Trend = 24.97 degrees from North in Clockwise direction Plunge = 42.20degrees  A= 27° | NNE
+Trend = 24.01 degrees from North in Clockwise direction Plunge = 42.43degrees  A= 27° | NNE
+Trend = 26.38 degrees from North in Clockwise direction Plunge = 41.22degrees  A= 27° | NNE
+Trend = 28.93 degrees from North in Clockwise direction Plunge = 40.90degrees  A= 27° | NNE
+Trend = 28.43 degrees from North in Clockwise direction Plunge = 40.27degrees  A= 27° | NNE
+Trend = 27.18 degrees from North in Clockwise direction Plunge = 40.79degrees  A= 27° | NNE
+Trend = 24.87 degrees from North in Clockwise direction Plunge = 41.10degrees  A= 27° | NNE
+Trend = 24.66 degrees from North in Clockwise direction Plunge = 42.03degrees  A= 27° | NNE
+Trend = 26.20 degrees from North in Clockwise direction Plunge = 41.49degrees  A= 27° | NNE
+Trend = 26.00 degrees from North in Clockwise direction Plunge = 41.96degrees  A= 27° | NNE
+Trend = 26.83 degrees from North in Clockwise direction Plunge = 41.35degrees  A= 27° | NNE
+Trend = 26.00 degrees from North in Clockwise direction Plunge = 41.95degrees  A= 27° | NNE
+Trend = 25.65 degrees from North in Clockwise direction Plunge = 41.28degrees  A= 27° | NNE
+Trend = 26.51 degrees from North in Clockwise direction Plunge = 41.70degrees  A= 27° | NNE
+Trend = 25.83 degrees from North in Clockwise direction Plunge = 41.60degrees  A= 27° | NNE
+Trend = 26.39 degrees from North in Clockwise direction Plunge = 42.25degrees  A= 27° | NNE
+Trend = 26.12 degrees from North in Clockwise direction Plunge = 41.93degrees  A= 27° | NNE
+Trend = 25.96 degrees from North in Clockwise direction Plunge = 42.40degrees  A= 27° | NNE
+Trend = 26.75 degrees from North in Clockwise direction Plunge = 41.76degrees  A= 27° | NNE
+Trend = 14.66 degrees from North in Clockwise direction Plunge = 43.91degrees  A= 27° | NNE
+Trend = -0.53 degrees from North in Clockwise direction Plunge = 42.43degrees  A= 27° | NNE
+Trend = 6.54 degrees from North in Clockwise direction Plunge = 44.78degrees  A= 27° | NNE
+Trend = -14.08 degrees from North in Clockwise direction Plunge = 43.26degrees  A= 27° | NNE
+Trend = -10.44 degrees from North in Clockwise direction Plunge = 43.79degrees  A= 27° | NNE
+Trend = -2.52 degrees from North in Clockwise direction Plunge = 45.01degrees  A= 27° | NNE
+Trend = -1.93 degrees from North in Clockwise direction Plunge = 44.23degrees  A= 27° | NNE
+Trend = 6.95 degrees from North in Clockwise direction Plunge = 44.94degrees  A= 27° | NNE
+Trend = -6.09 degrees from North in Clockwise direction Plunge = 44.20degrees  A= 27° | NNE
+Trend = 11.12 degrees from North in Clockwise direction Plunge = 44.84degrees  A= 27° | NNE
+Trend = 79.73 degrees from North in Clockwise direction Plunge = 28.64degrees  A= 27° | NNE
+Trend = 7.77 degrees from North in Clockwise direction Plunge = 43.55degrees  A= 27° | NNE
+Trend = 8.10 degrees from North in Clockwise direction Plunge = 44.61degrees  A= 27° | NNE
+Trend = 9.82 degrees from North in Clockwise direction Plunge = 44.14degrees  A= 27° | NNE
+Trend = 9.29 degrees from North in Clockwise direction Plunge = 44.09degrees  A= 27° | NNE
+Trend = 9.10 degrees from North in Clockwise direction Plunge = 44.30degrees  A= 27° | NNE
+Trend = 9.84 degrees from North in Clockwise direction Plunge = 43.47degrees  A= 27° | NNE
+Trend = 11.37 degrees from North in Clockwise direction Plunge = 43.64degrees  A= 27° | NNE
+Trend = 10.10 degrees from North in Clockwise direction Plunge = 44.08degrees  A= 27° | NNE
+Trend = 10.64 degrees from North in Clockwise direction Plunge = 44.20degrees  A= 27° | NNE
+Trend = 15.74 degrees from North in Clockwise direction Plunge = 43.85degrees  A= 27° | NNE
+Trend = 8.43 degrees from North in Clockwise direction Plunge = 41.43degrees  A= 27° | NNE
+Trend = 13.86 degrees from North in Clockwise direction Plunge = 44.71degrees  A= 27° | NNE
+Trend = 16.33 degrees from North in Clockwise direction Plunge = 44.10degrees  A= 27° | NNE
+Trend = 17.89 degrees from North in Clockwise direction Plunge = 45.08degrees  A= 27° | NNE
+Trend = 15.64 degrees from North in Clockwise direction Plunge = 43.47degrees  A= 27° | NNE
+Trend = 15.88 degrees from North in Clockwise direction Plunge = 43.85degrees  A= 27° | NNE
+Trend = 17.90 degrees from North in Clockwise direction Plunge = 44.26degrees  A= 27° | NNE
+Trend = 18.24 degrees from North in Clockwise direction Plunge = 43.96degrees  A= 27° | NNE
+Trend = 18.59 degrees from North in Clockwise direction Plunge = 43.62degrees  A= 27° | NNE
+Trend = 17.85 degrees from North in Clockwise direction Plunge = 43.85degrees  A= 27° | NNE
+Trend = 17.26 degrees from North in Clockwise direction Plunge = 43.36degrees  A= 27° | NNE
+Trend = 18.06 degrees from North in Clockwise direction Plunge = 43.32degrees  A= 27° | NNE
+Trend = 13.63 degrees from North in Clockwise direction Plunge = 43.64degrees  A= 27° | NNE
+Trend = 15.00 degrees from North in Clockwise direction Plunge = 43.63degrees  A= 27° | NNE
+Trend = 17.11 degrees from North in Clockwise direction Plunge = 43.59degrees  A= 27° | NNE
+Trend = 15.58 degrees from North in Clockwise direction Plunge = 43.53degrees  A= 27° | NNE
+Trend = 16.10 degrees from North in Clockwise direction Plunge = 43.30degrees  A= 27° | NNE
+Trend = 19.02 degrees from North in Clockwise direction Plunge = 43.91degrees  A= 27° | NNE
+Trend = 16.25 degrees from North in Clockwise direction Plunge = 43.63degrees  A= 27° | NNE
+Trend = 16.61 degrees from North in Clockwise direction Plunge = 43.58degrees  A= 27° | NNE
+Trend = 16.93 degrees from North in Clockwise direction Plunge = 43.85degrees  A= 27° | NNE
+Trend = 15.13 degrees from North in Clockwise direction Plunge = 43.62degrees  A= 27° | NNE
+Trend = 14.61 degrees from North in Clockwise direction Plunge = 43.92degrees  A= 27° | NNE
+Trend = 15.84 degrees from North in Clockwise direction Plunge = 43.89degrees  A= 27° | NNE
+Trend = 16.33 degrees from North in Clockwise direction Plunge = 44.19degrees  A= 27° | NNE
+Trend = 15.79 degrees from North in Clockwise direction Plunge = 43.82degrees  A= 27° | NNE
+Trend = 14.41 degrees from North in Clockwise direction Plunge = 44.12degrees  A= 27° | NNE
+Trend = 13.45 degrees from North in Clockwise direction Plunge = 43.41degrees  A= 27° | NNE
+Trend = 14.61 degrees from North in Clockwise direction Plunge = 43.74degrees  A= 27° | NNE
+Trend = -10.91 degrees from North in Clockwise direction Plunge = 44.60degrees  A= 33° | NNE
+Trend = -11.46 degrees from North in Clockwise direction Plunge = 44.41degrees  A= 33° | NNE
+Trend = -11.04 degrees from North in Clockwise direction Plunge = 44.52degrees  A= 32° | NNE
+Trend = -10.37 degrees from North in Clockwise direction Plunge = 45.12degrees  A= 32° | NNE
+Trend = -11.64 degrees from North in Clockwise direction Plunge = 44.07degrees  A= 32° | NNE
+Trend = -11.74 degrees from North in Clockwise direction Plunge = 44.56degrees  A= 33° | NNE
+Trend = -10.72 degrees from North in Clockwise direction Plunge = 45.02degrees  A= 32° | NNE
+Trend = 69.10 degrees from North in Clockwise direction Plunge = 32.48degrees  A=  5° |   N
+Trend = 69.14 degrees from North in Clockwise direction Plunge = 32.48degrees  A=  5° |   N
+Trend = 69.43 degrees from North in Clockwise direction Plunge = 32.24degrees  A=  5° |   N
+Trend = 69.16 degrees from North in Clockwise direction Plunge = 32.37degrees  A=  5° |   N
+Trend = 69.06 degrees from North in Clockwise direction Plunge = 32.77degrees  A=  5° |   N
+Trend = 69.04 degrees from North in Clockwise direction Plunge = 32.98degrees  A=  5° |   N
+Trend = 69.40 degrees from North in Clockwise direction Plunge = 32.38degrees  A=  5° |   N
+Trend = 69.63 degrees from North in Clockwise direction Plunge = 33.10degrees  A=  5° |   N
+Trend = 69.32 degrees from North in Clockwise direction Plunge = 32.49degrees  A=  4° |   N
+Trend = 69.32 degrees from North in Clockwise direction Plunge = 32.87degrees  A=  4° |   N
+Trend = 69.26 degrees from North in Clockwise direction Plunge = 32.85degrees  A=  5° |   N
+Trend = 69.36 degrees from North in Clockwise direction Plunge = 31.81degrees  A=  5° |   N
+Trend = 68.99 degrees from North in Clockwise direction Plunge = 32.78degrees  A=354° | NNW
+Trend = 69.37 degrees from North in Clockwise direction Plunge = 33.17degrees  A= 14° |   N
+Trend = 69.32 degrees from North in Clockwise direction Plunge = 32.57degrees  A= 77° | ENE
+Trend = 69.61 degrees from North in Clockwise direction Plunge = 32.82degrees  A=345° | NNW
+Trend = 69.14 degrees from North in Clockwise direction Plunge = 32.45degrees  A=328° |  NW
+Trend = 69.31 degrees from North in Clockwise direction Plunge = 32.55degrees  A=315° |  NW
+Trend = 69.04 degrees from North in Clockwise direction Plunge = 32.44degrees  A=  4° |   N
+Trend = 69.30 degrees from North in Clockwise direction Plunge = 32.26degrees  A= 25° | NNE
+Trend = 68.99 degrees from North in Clockwise direction Plunge = 32.55degrees  A= 26° | NNE
+Trend = 69.26 degrees from North in Clockwise direction Plunge = 31.84degrees  A= 29° | NNE
+Trend = 69.40 degrees from North in Clockwise direction Plunge = 32.38degrees  A= 32° | NNE
+Trend = 68.96 degrees from North in Clockwise direction Plunge = 32.52degrees  A= 32° | NNE
+Trend = 68.92 degrees from North in Clockwise direction Plunge = 31.65degrees  A=  5° |   N
+Trend = 69.38 degrees from North in Clockwise direction Plunge = 32.54degrees  A=  2° |   N
+Trend = 69.10 degrees from North in Clockwise direction Plunge = 31.99degrees  A= 17° |   N
+Trend = 69.61 degrees from North in Clockwise direction Plunge = 32.16degrees  A= 17° |   N
+Trend = 69.35 degrees from North in Clockwise direction Plunge = 32.19degrees  A= 13° |   N
+Trend = 69.78 degrees from North in Clockwise direction Plunge = 32.45degrees  A= 12° |   N
+Trend = 69.80 degrees from North in Clockwise direction Plunge = 32.40degrees  A= 12° |   N
+Trend = 69.54 degrees from North in Clockwise direction Plunge = 32.25degrees  A= 12° |   N
+Trend = 69.87 degrees from North in Clockwise direction Plunge = 33.49degrees  A= 12° |   N
+Trend = 69.55 degrees from North in Clockwise direction Plunge = 32.44degrees  A= 12° |   N
+Trend = 69.51 degrees from North in Clockwise direction Plunge = 32.78degrees  A= 11° |   N
+Trend = 69.48 degrees from North in Clockwise direction Plunge = 32.71degrees  A= 11° |   N
+Trend = 68.11 degrees from North in Clockwise direction Plunge = 27.03degrees  A= 10° |   N
+Trend = 68.14 degrees from North in Clockwise direction Plunge = 27.62degrees  A= 11° |   N
+Trend = 68.93 degrees from North in Clockwise direction Plunge = 31.92degrees  A= 11° |   N
+Trend = 68.81 degrees from North in Clockwise direction Plunge = 30.89degrees  A= 11° |   N
+Trend = 69.22 degrees from North in Clockwise direction Plunge = 31.62degrees  A= 11° |   N
+Trend = 68.68 degrees from North in Clockwise direction Plunge = 31.01degrees  A= 11° |   N
+Trend = 69.06 degrees from North in Clockwise direction Plunge = 31.45degrees  A= 11° |   N
+Trend = 69.01 degrees from North in Clockwise direction Plunge = 31.22degrees  A= 11° |   N
+Trend = 69.30 degrees from North in Clockwise direction Plunge = 31.48degrees  A= 11° |   N
+Trend = 69.18 degrees from North in Clockwise direction Plunge = 30.52degrees  A= 11° |   N
+Trend = 68.58 degrees from North in Clockwise direction Plunge = 30.90degrees  A= 11° |   N
+Trend = 69.10 degrees from North in Clockwise direction Plunge = 31.98degrees  A= 11° |   N
+Trend = 68.78 degrees from North in Clockwise direction Plunge = 31.47degrees  A= 11° |   N
+Trend = 68.97 degrees from North in Clockwise direction Plunge = 31.32degrees  A= 11° |   N
+Trend = 69.05 degrees from North in Clockwise direction Plunge = 31.94degrees  A= 11° |   N
+Trend = 68.88 degrees from North in Clockwise direction Plunge = 31.56degrees  A= 11° |   N
+Trend = 68.94 degrees from North in Clockwise direction Plunge = 31.83degrees  A= 11° |   N
+Trend = 68.68 degrees from North in Clockwise direction Plunge = 30.98degrees  A= 11° |   N
+Trend = 69.27 degrees from North in Clockwise direction Plunge = 31.34degrees  A= 11° |   N
+Trend = 68.71 degrees from North in Clockwise direction Plunge = 31.66degrees  A= 11° |   N
+Trend = 68.97 degrees from North in Clockwise direction Plunge = 32.14degrees  A= 11° |   N
+Trend = 69.04 degrees from North in Clockwise direction Plunge = 31.64degrees  A= 11° |   N
+Trend = 68.84 degrees from North in Clockwise direction Plunge = 31.37degrees  A= 11° |   N
+Trend = 68.96 degrees from North in Clockwise direction Plunge = 31.20degrees  A= 11° |   N
+Trend = 68.76 degrees from North in Clockwise direction Plunge = 31.57degrees  A= 11° |   N
+Trend = 69.04 degrees from North in Clockwise direction Plunge = 31.26degrees  A= 11° |   N
+Trend = 69.13 degrees from North in Clockwise direction Plunge = 31.39degrees  A= 11° |   N
+Trend = 69.03 degrees from North in Clockwise direction Plunge = 31.39degrees  A= 10° |   N
+Trend = 68.82 degrees from North in Clockwise direction Plunge = 31.78degrees  A=  8° |   N
+Trend = 68.68 degrees from North in Clockwise direction Plunge = 31.02degrees  A= 19° |   N
+Trend = 68.97 degrees from North in Clockwise direction Plunge = 31.48degrees  A= 28° | NNE
+Trend = 68.99 degrees from North in Clockwise direction Plunge = 31.59degrees  A= 38° | NNE
+Trend = 68.89 degrees from North in Clockwise direction Plunge = 30.81degrees  A= 20° |   N
+Trend = 69.07 degrees from North in Clockwise direction Plunge = 31.89degrees  A= 15° |   N
+Trend = 69.12 degrees from North in Clockwise direction Plunge = 31.39degrees  A= 13° |   N
+Trend = 68.74 degrees from North in Clockwise direction Plunge = 31.97degrees  A= 13° |   N
+Trend = 69.13 degrees from North in Clockwise direction Plunge = 31.28degrees  A= 12° |   N
+Trend = 69.07 degrees from North in Clockwise direction Plunge = 31.26degrees  A= 12° |   N
+Trend = 69.01 degrees from North in Clockwise direction Plunge = 31.98degrees  A= 12° |   N
+Trend = 68.98 degrees from North in Clockwise direction Plunge = 32.17degrees  A= 12° |   N
+Trend = 68.85 degrees from North in Clockwise direction Plunge = 31.56degrees  A= 11° |   N
+Trend = 69.07 degrees from North in Clockwise direction Plunge = 31.83degrees  A= 11° |   N
+Trend = 68.95 degrees from North in Clockwise direction Plunge = 30.82degrees  A= 11° |   N
+Trend = 68.86 degrees from North in Clockwise direction Plunge = 31.87degrees  A= 11° |   N
+Trend = 69.22 degrees from North in Clockwise direction Plunge = 32.07degrees  A= 11° |   N
+Trend = 69.01 degrees from North in Clockwise direction Plunge = 30.63degrees  A= 11° |   N
+Trend = 69.19 degrees from North in Clockwise direction Plunge = 31.76degrees  A= 11° |   N
+Trend = 69.17 degrees from North in Clockwise direction Plunge = 30.76degrees  A= 11° |   N
+Trend = 68.87 degrees from North in Clockwise direction Plunge = 32.21degrees  A= 11° |   N
+Trend = 69.08 degrees from North in Clockwise direction Plunge = 31.69degrees  A= 11° |   N
+Trend = 69.19 degrees from North in Clockwise direction Plunge = 31.22degrees  A= 11° |   N
+Trend = 68.85 degrees from North in Clockwise direction Plunge = 31.79degrees  A= 11° |   N
+Trend = 69.18 degrees from North in Clockwise direction Plunge = 31.39degrees  A= 11° |   N
+Trend = 69.31 degrees from North in Clockwise direction Plunge = 31.54degrees  A= 11° |   N
+Trend = 68.87 degrees from North in Clockwise direction Plunge = 31.98degrees  A= 11° |   N
+Trend = 68.71 degrees from North in Clockwise direction Plunge = 32.65degrees  A= 11° |   N
+Trend = 69.44 degrees from North in Clockwise direction Plunge = 31.75degrees  A=  9° |   N
+Trend = 69.21 degrees from North in Clockwise direction Plunge = 31.57degrees  A= 23° | NNE
+Trend = 68.97 degrees from North in Clockwise direction Plunge = 31.49degrees  A= 15° |   N
+Trend = 69.27 degrees from North in Clockwise direction Plunge = 31.81degrees  A= 17° |   N
+Trend = 69.41 degrees from North in Clockwise direction Plunge = 31.30degrees  A= 17° |   N
+Trend = 69.18 degrees from North in Clockwise direction Plunge = 31.81degrees  A= 20° |   N
+Trend = 69.19 degrees from North in Clockwise direction Plunge = 31.68degrees  A= 40° | NNE
+Trend = 65.96 degrees from North in Clockwise direction Plunge = 32.60degrees  A= 32° | NNE
+Trend = 64.19 degrees from North in Clockwise direction Plunge = 32.68degrees  A= 32° | NNE
+Trend = 67.53 degrees from North in Clockwise direction Plunge = 32.45degrees  A= 12° |   N
+Trend = 64.96 degrees from North in Clockwise direction Plunge = 34.83degrees  A= 14° |   N
+Trend = 65.36 degrees from North in Clockwise direction Plunge = 31.85degrees  A= 38° | NNE
+Trend = 68.32 degrees from North in Clockwise direction Plunge = 32.06degrees  A= 18° |   N
+Trend = 66.92 degrees from North in Clockwise direction Plunge = 32.49degrees  A= 25° | NNE
+Trend = 66.86 degrees from North in Clockwise direction Plunge = 32.30degrees  A= 20° |   N
+Trend = 60.13 degrees from North in Clockwise direction Plunge = 33.55degrees  A= 34° | NNE
+Trend = 65.13 degrees from North in Clockwise direction Plunge = 33.29degrees  A= 43° | NNE
+Trend = 65.31 degrees from North in Clockwise direction Plunge = 32.50degrees  A= 37° | NNE
+Trend = -83.15 degrees from North in Clockwise direction Plunge = 41.45degrees  A= 30° | NNE
+Trend = -25.47 degrees from North in Clockwise direction Plunge = 71.56degrees  A= 24° | NNE
+Trend = -35.51 degrees from North in Clockwise direction Plunge = 53.80degrees  A= 21° |   N
+Trend = -58.01 degrees from North in Clockwise direction Plunge = 48.22degrees  A= 23° | NNE
+Trend = -89.96 degrees from North in Clockwise direction Plunge = 38.19degrees  A= 26° | NNE
+Trend = -40.03 degrees from North in Clockwise direction Plunge = 74.81degrees  A= 23° | NNE
+Trend = 45.71 degrees from North in Clockwise direction Plunge = 71.04degrees  A= 30° | NNE
+Trend = 8.83 degrees from North in Clockwise direction Plunge = 73.57degrees  A= 31° | NNE
+Trend = 7.36 degrees from North in Clockwise direction Plunge = 71.84degrees  A= 31° | NNE
+Trend = 8.55 degrees from North in Clockwise direction Plunge = 70.81degrees  A= 31° | NNE
+Trend = 9.61 degrees from North in Clockwise direction Plunge = 72.08degrees  A= 30° | NNE
+Trend = 12.60 degrees from North in Clockwise direction Plunge = 70.89degrees  A= 30° | NNE
+Trend = 7.92 degrees from North in Clockwise direction Plunge = 72.09degrees  A= 31° | NNE
+Trend = 6.90 degrees from North in Clockwise direction Plunge = 72.18degrees  A= 30° | NNE
+Trend = 4.46 degrees from North in Clockwise direction Plunge = 72.72degrees  A= 30° | NNE
+Trend = 13.23 degrees from North in Clockwise direction Plunge = 71.58degrees  A= 21° |   N
+Trend = 7.57 degrees from North in Clockwise direction Plunge = 71.70degrees  A= 17° |   N
+Trend = 8.53 degrees from North in Clockwise direction Plunge = 71.21degrees  A= 18° |   N
+Trend = 11.44 degrees from North in Clockwise direction Plunge = 71.51degrees  A= 19° |   N
+Trend = 2.31 degrees from North in Clockwise direction Plunge = 69.68degrees  A= 18° |   N
+Trend = 4.23 degrees from North in Clockwise direction Plunge = 71.25degrees  A= 18° |   N
+Trend = 11.60 degrees from North in Clockwise direction Plunge = 71.33degrees  A= 17° |   N
+Trend = 4.25 degrees from North in Clockwise direction Plunge = 71.65degrees  A= 17° |   N
+Trend = 8.53 degrees from North in Clockwise direction Plunge = 71.05degrees  A= 17° |   N
+Trend = 4.80 degrees from North in Clockwise direction Plunge = 71.18degrees  A= 17° |   N
+Trend = 8.10 degrees from North in Clockwise direction Plunge = 71.23degrees  A= 17° |   N
+Trend = 9.71 degrees from North in Clockwise direction Plunge = 71.58degrees  A= 17° |   N
+Trend = 8.90 degrees from North in Clockwise direction Plunge = 71.98degrees  A= 17° |   N
+Trend = 7.72 degrees from North in Clockwise direction Plunge = 71.60degrees  A= 17° |   N
+Trend = 9.81 degrees from North in Clockwise direction Plunge = 71.73degrees  A= 17° |   N
+Trend = 5.43 degrees from North in Clockwise direction Plunge = 72.19degrees  A= 17° |   N
+Trend = 9.21 degrees from North in Clockwise direction Plunge = 71.51degrees  A= 17° |   N
+Trend = 8.25 degrees from North in Clockwise direction Plunge = 71.91degrees  A= 18° |   N
+Trend = 8.43 degrees from North in Clockwise direction Plunge = 71.46degrees  A= 18° |   N
+Trend = 4.49 degrees from North in Clockwise direction Plunge = 71.43degrees  A= 18° |   N
+Trend = 4.98 degrees from North in Clockwise direction Plunge = 71.56degrees  A= 17° |   N
+Trend = 5.26 degrees from North in Clockwise direction Plunge = 72.31degrees  A= 16° |   N
+Trend = 3.87 degrees from North in Clockwise direction Plunge = 73.18degrees  A= 16° |   N
+Trend = 4.45 degrees from North in Clockwise direction Plunge = 72.13degrees  A= 16° |   N
+Trend = 19.23 degrees from North in Clockwise direction Plunge = 72.60degrees  A= 17° |   N
+Trend = 14.53 degrees from North in Clockwise direction Plunge = 72.13degrees  A= 20° |   N
+Trend = -15.38 degrees from North in Clockwise direction Plunge = 84.43degrees  A= 37° | NNE
+Trend = 14.65 degrees from North in Clockwise direction Plunge = 39.03degrees  A= 52° |  NE
+Trend = 15.48 degrees from North in Clockwise direction Plunge = 39.38degrees  A= 51° |  NE
+Trend = 14.65 degrees from North in Clockwise direction Plunge = 39.43degrees  A= 51° |  NE
+Trend = 15.67 degrees from North in Clockwise direction Plunge = 40.22degrees  A= 51° |  NE
+Trend = 16.35 degrees from North in Clockwise direction Plunge = 39.81degrees  A= 50° |  NE
+Trend = 19.25 degrees from North in Clockwise direction Plunge = 38.33degrees  A= 50° |  NE
+Trend = 16.93 degrees from North in Clockwise direction Plunge = 39.45degrees  A= 50° |  NE
+Trend = 29.58 degrees from North in Clockwise direction Plunge = 46.93degrees  A= 44° | NNE
+Trend = 8.29 degrees from North in Clockwise direction Plunge = 72.40degrees  A= 19° |   N
+Trend = 0.86 degrees from North in Clockwise direction Plunge = 66.37degrees  A= 15° |   N
+Trend = 0.32 degrees from North in Clockwise direction Plunge = 68.33degrees  A= 13° |   N
+Trend = -15.81 degrees from North in Clockwise direction Plunge = 74.50degrees  A= 15° |   N
+Trend = 0.34 degrees from North in Clockwise direction Plunge = 72.69degrees  A= 21° |   N
+Trend = -3.99 degrees from North in Clockwise direction Plunge = 72.89degrees  A= 15° |   N
+Trend = 3.42 degrees from North in Clockwise direction Plunge = 72.92degrees  A= 16° |   N
+Trend = -0.58 degrees from North in Clockwise direction Plunge = 71.55degrees  A= 16° |   N
+Trend = 11.63 degrees from North in Clockwise direction Plunge = 75.01degrees  A= 13° |   N
+Trend = 35.84 degrees from North in Clockwise direction Plunge = 67.73degrees  A= 10° |   N
+Trend = 31.95 degrees from North in Clockwise direction Plunge = 69.46degrees  A= 10° |   N
+Trend = 0.12 degrees from North in Clockwise direction Plunge = 71.39degrees  A= 13° |   N
+Trend = 0.86 degrees from North in Clockwise direction Plunge = 69.17degrees  A= 12° |   N
+Trend = 6.84 degrees from North in Clockwise direction Plunge = 70.89degrees  A= 12° |   N
+Trend = 6.77 degrees from North in Clockwise direction Plunge = 66.84degrees  A= 11° |   N
+Trend = 4.83 degrees from North in Clockwise direction Plunge = 69.05degrees  A= 12° |   N
+Trend = 8.43 degrees from North in Clockwise direction Plunge = 68.19degrees  A= 12° |   N
+Trend = 5.43 degrees from North in Clockwise direction Plunge = 67.88degrees  A= 11° |   N
+Trend = 7.29 degrees from North in Clockwise direction Plunge = 68.64degrees  A= 12° |   N
+Trend = 5.51 degrees from North in Clockwise direction Plunge = 69.35degrees  A= 11° |   N
+Trend = 5.77 degrees from North in Clockwise direction Plunge = 68.16degrees  A= 12° |   N
+Trend = 8.29 degrees from North in Clockwise direction Plunge = 69.21degrees  A= 11° |   N
+Trend = 7.08 degrees from North in Clockwise direction Plunge = 68.86degrees  A= 11° |   N
+Trend = 7.87 degrees from North in Clockwise direction Plunge = 68.53degrees  A= 12° |   N
+Trend = 7.97 degrees from North in Clockwise direction Plunge = 68.58degrees  A= 12° |   N
+Trend = 3.95 degrees from North in Clockwise direction Plunge = 68.56degrees  A= 11° |   N
+Trend = 6.25 degrees from North in Clockwise direction Plunge = 67.55degrees  A= 11° |   N
+Trend = 5.33 degrees from North in Clockwise direction Plunge = 68.08degrees  A= 11° |   N
+Trend = 7.07 degrees from North in Clockwise direction Plunge = 67.88degrees  A= 12° |   N
+Trend = 5.66 degrees from North in Clockwise direction Plunge = 68.24degrees  A= 11° |   N
+Trend = 4.25 degrees from North in Clockwise direction Plunge = 67.80degrees  A= 12° |   N
+Trend = 8.37 degrees from North in Clockwise direction Plunge = 70.35degrees  A= 12° |   N
+Trend = 8.88 degrees from North in Clockwise direction Plunge = 70.11degrees  A= 11° |   N
+Trend = 12.01 degrees from North in Clockwise direction Plunge = 68.55degrees  A= 11° |   N
+Trend = 33.71 degrees from North in Clockwise direction Plunge = 78.94degrees  A= 11° |   N
+Trend = 34.91 degrees from North in Clockwise direction Plunge = 78.54degrees  A= 10° |   N
+Trend = 57.75 degrees from North in Clockwise direction Plunge = 81.92degrees  A= 10° |   N
+Trend = -74.68 degrees from North in Clockwise direction Plunge = 82.91degrees  A= 13° |   N
+Trend = -82.56 degrees from North in Clockwise direction Plunge = 82.47degrees  A= 12° |   N
+Trend = 55.31 degrees from North in Clockwise direction Plunge = 83.11degrees  A= 11° |   N
+Trend = -7.07 degrees from North in Clockwise direction Plunge = 62.50degrees  A= 10° |   N
+Trend = 20.53 degrees from North in Clockwise direction Plunge = 68.61degrees  A= 11° |   N
+Trend = 9.41 degrees from North in Clockwise direction Plunge = 69.09degrees  A= 12° |   N
+Trend = 14.24 degrees from North in Clockwise direction Plunge = 71.29degrees  A= 12° |   N
+Trend = -24.66 degrees from North in Clockwise direction Plunge = 68.47degrees  A= 12° |   N
+Trend = -11.26 degrees from North in Clockwise direction Plunge = 73.86degrees  A= 12° |   N
+Trend = -4.60 degrees from North in Clockwise direction Plunge = 71.31degrees  A=  9° |   N
+Trend = -42.30 degrees from North in Clockwise direction Plunge = 70.72degrees  A= 13° |   N
+Trend = -23.90 degrees from North in Clockwise direction Plunge = 57.92degrees  A=  5° |   N
+Trend = -61.59 degrees from North in Clockwise direction Plunge = 39.29degrees  A= 11° |   N
+Trend = -14.92 degrees from North in Clockwise direction Plunge = 72.58degrees  A=  6° |   N
+Trend = 21.38 degrees from North in Clockwise direction Plunge = 69.83degrees  A=  5° |   N
+Trend = -48.08 degrees from North in Clockwise direction Plunge = 70.95degrees  A=  9° |   N
+Trend = -14.03 degrees from North in Clockwise direction Plunge = 68.43degrees  A=  6° |   N
+Trend = 2.68 degrees from North in Clockwise direction Plunge = 75.80degrees  A= 13° |   N
+Trend = 20.88 degrees from North in Clockwise direction Plunge = 76.79degrees  A= 21° |   N
+Trend = 32.01 degrees from North in Clockwise direction Plunge = 57.07degrees  A= 15° |   N
+Trend = 35.86 degrees from North in Clockwise direction Plunge = 48.62degrees  A= 12° |   N
+Trend = 10.39 degrees from North in Clockwise direction Plunge = 67.91degrees  A= 16° |   N
+Trend = 0.02 degrees from North in Clockwise direction Plunge = 69.37degrees  A= 20° |   N
+Trend = 6.49 degrees from North in Clockwise direction Plunge = 70.73degrees  A= 20° |   N
+Trend = 11.54 degrees from North in Clockwise direction Plunge = 70.95degrees  A= 15° |   N
+Trend = 10.97 degrees from North in Clockwise direction Plunge = 69.57degrees  A= 16° |   N
+Trend = 20.13 degrees from North in Clockwise direction Plunge = 72.60degrees  A= 19° |   N
+Trend = -6.29 degrees from North in Clockwise direction Plunge = 70.21degrees  A= 20° |   N
+Trend = 2.65 degrees from North in Clockwise direction Plunge = 70.49degrees  A= 20° |   N
+Trend = -1.04 degrees from North in Clockwise direction Plunge = 72.95degrees  A=358° | NNW
+Trend = 3.56 degrees from North in Clockwise direction Plunge = 72.55degrees  A=  5° |   N
+Trend = 9.79 degrees from North in Clockwise direction Plunge = 71.04degrees  A=  5° |   N
+Trend = 14.78 degrees from North in Clockwise direction Plunge = 72.41degrees  A=  5° |   N
+Trend = 13.51 degrees from North in Clockwise direction Plunge = 72.96degrees  A=  5° |   N
+Trend = 14.71 degrees from North in Clockwise direction Plunge = 72.24degrees  A=  5° |   N
+Trend = 14.31 degrees from North in Clockwise direction Plunge = 71.65degrees  A=  5° |   N
+Trend = 11.89 degrees from North in Clockwise direction Plunge = 71.00degrees  A=  5° |   N
+Trend = 17.60 degrees from North in Clockwise direction Plunge = 70.72degrees  A=  4° |   N
+Trend = 9.59 degrees from North in Clockwise direction Plunge = 71.99degrees  A=  5° |   N
+Trend = 11.23 degrees from North in Clockwise direction Plunge = 73.64degrees  A=  4° |   N
+Trend = 0.83 degrees from North in Clockwise direction Plunge = 71.15degrees  A=  4° |   N
+Trend = 17.26 degrees from North in Clockwise direction Plunge = 69.20degrees  A=  4° |   N
+Trend = 10.17 degrees from North in Clockwise direction Plunge = 70.34degrees  A=  3° |   N
+Trend = 11.29 degrees from North in Clockwise direction Plunge = 71.68degrees  A=  3° |   N
+Trend = 6.04 degrees from North in Clockwise direction Plunge = 69.19degrees  A=  3° |   N
+Trend = 8.18 degrees from North in Clockwise direction Plunge = 71.15degrees  A=  4° |   N
+Trend = 4.61 degrees from North in Clockwise direction Plunge = 71.72degrees  A=  4° |   N
+Trend = 2.15 degrees from North in Clockwise direction Plunge = 70.53degrees  A=  5° |   N
+Trend = 8.66 degrees from North in Clockwise direction Plunge = 70.73degrees  A=  4° |   N
+Trend = 11.82 degrees from North in Clockwise direction Plunge = 72.34degrees  A=  5° |   N
+Trend = 4.85 degrees from North in Clockwise direction Plunge = 68.77degrees  A=359° | NNW
+Trend = 6.12 degrees from North in Clockwise direction Plunge = 70.93degrees  A=  0° |   N
+Trend = 3.92 degrees from North in Clockwise direction Plunge = 72.10degrees  A=  0° |   N
+Trend = -12.74 degrees from North in Clockwise direction Plunge = 67.25degrees  A=  0° |   N
+Trend = 5.16 degrees from North in Clockwise direction Plunge = 71.16degrees  A=357° | NNW
+Trend = 29.67 degrees from North in Clockwise direction Plunge = 76.57degrees  A=  2° |   N
+Trend = 27.46 degrees from North in Clockwise direction Plunge = 71.80degrees  A=  0° |   N
+Trend = 3.74 degrees from North in Clockwise direction Plunge = 76.64degrees  A=  5° |   N
+Trend = 4.09 degrees from North in Clockwise direction Plunge = 76.38degrees  A=  3° |   N
+Trend = 3.07 degrees from North in Clockwise direction Plunge = 67.04degrees  A= 20° |   N
+Trend = 11.04 degrees from North in Clockwise direction Plunge = 72.42degrees  A= 53° |  NE
+Trend = 17.56 degrees from North in Clockwise direction Plunge = 68.30degrees  A= 50° |  NE
+Trend = 11.62 degrees from North in Clockwise direction Plunge = 68.65degrees  A= 50° |  NE
+Trend = 11.90 degrees from North in Clockwise direction Plunge = 68.93degrees  A= 49° |  NE
+Trend = 7.68 degrees from North in Clockwise direction Plunge = 68.31degrees  A= 35° | NNE
+Trend = 13.98 degrees from North in Clockwise direction Plunge = 67.02degrees  A= 33° | NNE
+Trend = 13.81 degrees from North in Clockwise direction Plunge = 67.91degrees  A= 34° | NNE
+Trend = 10.87 degrees from North in Clockwise direction Plunge = 73.47degrees  A= 38° | NNE
+Trend = 19.50 degrees from North in Clockwise direction Plunge = 71.93degrees  A= 36° | NNE
+Trend = 8.98 degrees from North in Clockwise direction Plunge = 69.23degrees  A= 41° | NNE
+Trend = 15.09 degrees from North in Clockwise direction Plunge = 70.50degrees  A= 45° |  NE
+Trend = 14.15 degrees from North in Clockwise direction Plunge = 69.53degrees  A= 45° |  NE
+Trend = 11.82 degrees from North in Clockwise direction Plunge = 70.29degrees  A= 44° | NNE
+Trend = 14.70 degrees from North in Clockwise direction Plunge = 73.26degrees  A= 43° | NNE
+Trend = 11.47 degrees from North in Clockwise direction Plunge = 67.53degrees  A= 41° | NNE
+Trend = 14.55 degrees from North in Clockwise direction Plunge = 70.56degrees  A= 40° | NNE
+Trend = 14.65 degrees from North in Clockwise direction Plunge = 68.99degrees  A= 41° | NNE
+Trend = 9.82 degrees from North in Clockwise direction Plunge = 71.24degrees  A= 41° | NNE
+Trend = 22.69 degrees from North in Clockwise direction Plunge = 68.95degrees  A= 34° | NNE
+Trend = 8.59 degrees from North in Clockwise direction Plunge = 70.90degrees  A= 37° | NNE
+Trend = 6.89 degrees from North in Clockwise direction Plunge = 72.52degrees  A= 37° | NNE
+Trend = 5.30 degrees from North in Clockwise direction Plunge = 70.79degrees  A= 34° | NNE
+Trend = 9.49 degrees from North in Clockwise direction Plunge = 72.92degrees  A= 35° | NNE
+Trend = 6.69 degrees from North in Clockwise direction Plunge = 72.02degrees  A= 36° | NNE
+Trend = 7.02 degrees from North in Clockwise direction Plunge = 76.07degrees  A= 38° | NNE
+Trend = 10.64 degrees from North in Clockwise direction Plunge = 73.55degrees  A= 38° | NNE
+Trend = 17.09 degrees from North in Clockwise direction Plunge = 72.15degrees  A= 28° | NNE
+Trend = 23.35 degrees from North in Clockwise direction Plunge = 71.94degrees  A= 23° | NNE
+Trend = 23.41 degrees from North in Clockwise direction Plunge = 70.79degrees  A= 24° | NNE
+Trend = 20.68 degrees from North in Clockwise direction Plunge = 72.13degrees  A= 23° | NNE
+Trend = 18.13 degrees from North in Clockwise direction Plunge = 71.22degrees  A= 24° | NNE
+Trend = 13.92 degrees from North in Clockwise direction Plunge = 72.89degrees  A= 25° | NNE
+Trend = 21.48 degrees from North in Clockwise direction Plunge = 70.63degrees  A= 23° | NNE
+Trend = 19.11 degrees from North in Clockwise direction Plunge = 72.89degrees  A= 22° |   N
+Trend = 18.84 degrees from North in Clockwise direction Plunge = 72.23degrees  A= 24° | NNE
+Trend = 18.76 degrees from North in Clockwise direction Plunge = 72.31degrees  A= 23° | NNE
+Trend = 20.74 degrees from North in Clockwise direction Plunge = 72.51degrees  A= 24° | NNE
+Trend = 23.86 degrees from North in Clockwise direction Plunge = 76.37degrees  A= 20° |   N
+Trend = 22.26 degrees from North in Clockwise direction Plunge = 67.71degrees  A= 21° |   N
+Trend = 23.22 degrees from North in Clockwise direction Plunge = 69.63degrees  A= 20° |   N
+Trend = 16.91 degrees from North in Clockwise direction Plunge = 69.94degrees  A= 19° |   N
+Trend = 12.25 degrees from North in Clockwise direction Plunge = 71.51degrees  A= 20° |   N
+Trend = 17.62 degrees from North in Clockwise direction Plunge = 71.95degrees  A= 19° |   N
+Trend = 15.74 degrees from North in Clockwise direction Plunge = 70.58degrees  A= 19° |   N
+Trend = 19.20 degrees from North in Clockwise direction Plunge = 73.79degrees  A= 22° |   N
+Trend = 17.18 degrees from North in Clockwise direction Plunge = 72.81degrees  A= 23° | NNE
+Trend = 17.29 degrees from North in Clockwise direction Plunge = 75.61degrees  A= 23° | NNE
+Trend = 20.86 degrees from North in Clockwise direction Plunge = 75.63degrees  A= 24° | NNE
+Trend = 23.93 degrees from North in Clockwise direction Plunge = 73.56degrees  A= 25° | NNE
+Trend = 13.87 degrees from North in Clockwise direction Plunge = 72.67degrees  A= 23° | NNE
+Trend = 21.08 degrees from North in Clockwise direction Plunge = 73.05degrees  A= 22° |   N
+Trend = 19.22 degrees from North in Clockwise direction Plunge = 73.49degrees  A= 21° |   N
+Trend = 9.34 degrees from North in Clockwise direction Plunge = 74.90degrees  A= 22° |   N
+Trend = 16.72 degrees from North in Clockwise direction Plunge = 73.83degrees  A= 23° | NNE
+Trend = 17.71 degrees from North in Clockwise direction Plunge = 72.52degrees  A= 22° |   N
+Trend = 16.84 degrees from North in Clockwise direction Plunge = 72.60degrees  A= 22° |   N
+Trend = 13.68 degrees from North in Clockwise direction Plunge = 72.40degrees  A= 21° |   N
+Trend = 17.83 degrees from North in Clockwise direction Plunge = 72.30degrees  A= 21° |   N
+Trend = 19.75 degrees from North in Clockwise direction Plunge = 71.35degrees  A= 20° |   N
+Trend = 18.25 degrees from North in Clockwise direction Plunge = 73.80degrees  A= 21° |   N
+Trend = 18.21 degrees from North in Clockwise direction Plunge = 72.96degrees  A= 21° |   N
+Trend = 16.74 degrees from North in Clockwise direction Plunge = 71.06degrees  A= 21° |   N
+Trend = 8.14 degrees from North in Clockwise direction Plunge = 72.87degrees  A= 22° |   N
+Trend = 16.12 degrees from North in Clockwise direction Plunge = 64.64degrees  A= 14° |   N
+Trend = 10.61 degrees from North in Clockwise direction Plunge = 70.32degrees  A= 14° |   N
+Trend = 13.07 degrees from North in Clockwise direction Plunge = 65.92degrees  A= 10° |   N
+Trend = 8.64 degrees from North in Clockwise direction Plunge = 61.16degrees  A=  6° |   N
+Trend = -10.65 degrees from North in Clockwise direction Plunge = 68.67degrees  A= 21° |   N
+Trend = 30.14 degrees from North in Clockwise direction Plunge = 59.02degrees  A=  1° |   N
+Trend = 25.86 degrees from North in Clockwise direction Plunge = 61.48degrees  A=  2° |   N
+Trend = 27.27 degrees from North in Clockwise direction Plunge = 61.19degrees  A=  1° |   N
+Trend = 41.07 degrees from North in Clockwise direction Plunge = 45.39degrees  A=337° |  NW
+Trend = 35.64 degrees from North in Clockwise direction Plunge = 53.38degrees  A=338° | NNW
+Trend = 76.79 degrees from North in Clockwise direction Plunge = 6.09degrees  A=314° | WNW
+Trend = -80.49 degrees from North in Clockwise direction Plunge = 4.30degrees  A=336° |  NW
+Trend = -86.58 degrees from North in Clockwise direction Plunge = 0.62degrees  A=329° |  NW
+Trend = -85.98 degrees from North in Clockwise direction Plunge = 1.02degrees  A=320° |  NW
+Trend = -88.00 degrees from North in Clockwise direction Plunge = 0.29degrees  A=322° |  NW
+Trend = -88.85 degrees from North in Clockwise direction Plunge = 0.09degrees  A=318° |  NW
+Trend = -87.86 degrees from North in Clockwise direction Plunge = 0.27degrees  A=322° |  NW
+Trend = -88.41 degrees from North in Clockwise direction Plunge = 0.20degrees  A=324° |  NW
+Trend = -88.43 degrees from North in Clockwise direction Plunge = 0.22degrees  A=323° |  NW
+Trend = -86.46 degrees from North in Clockwise direction Plunge = 6.68degrees  A=332° |  NW
+Trend = -84.88 degrees from North in Clockwise direction Plunge = 7.34degrees  A=333° |  NW
+Trend = -86.13 degrees from North in Clockwise direction Plunge = 10.61degrees  A=336° |  NW
+Trend = -85.90 degrees from North in Clockwise direction Plunge = 11.63degrees  A=335° |  NW
+Trend = -85.77 degrees from North in Clockwise direction Plunge = 13.17degrees  A=338° | NNW
+Trend = -85.85 degrees from North in Clockwise direction Plunge = 10.66degrees  A=336° |  NW
+Trend = 49.55 degrees from North in Clockwise direction Plunge = 25.70degrees  A=337° |  NW
+Trend = 22.07 degrees from North in Clockwise direction Plunge = 72.99degrees  A=  4° |   N
+Trend = 16.42 degrees from North in Clockwise direction Plunge = 77.36degrees  A=  6° |   N
+Trend = 24.39 degrees from North in Clockwise direction Plunge = 75.19degrees  A=  6° |   N
+Trend = 17.02 degrees from North in Clockwise direction Plunge = 76.54degrees  A=  5° |   N
+Trend = 22.26 degrees from North in Clockwise direction Plunge = 75.59degrees  A=  6° |   N
+Trend = -9.89 degrees from North in Clockwise direction Plunge = 76.64degrees  A=  8° |   N
+Trend = -15.84 degrees from North in Clockwise direction Plunge = 82.91degrees  A= 14° |   N
+Trend = -47.76 degrees from North in Clockwise direction Plunge = 84.11degrees  A= 18° |   N
+Trend = -87.52 degrees from North in Clockwise direction Plunge = 83.38degrees  A= 20° |   N
+Trend = 84.84 degrees from North in Clockwise direction Plunge = 83.61degrees  A= 21° |   N
+Trend = 70.54 degrees from North in Clockwise direction Plunge = 78.14degrees  A= 23° | NNE
+Trend = 68.57 degrees from North in Clockwise direction Plunge = 77.18degrees  A= 25° | NNE
+Trend = 59.81 degrees from North in Clockwise direction Plunge = 83.94degrees  A= 23° | NNE
+Trend = 63.27 degrees from North in Clockwise direction Plunge = 83.44degrees  A= 21° |   N
+Trend = 62.95 degrees from North in Clockwise direction Plunge = 85.08degrees  A= 22° |   N
+Trend = 61.52 degrees from North in Clockwise direction Plunge = 83.96degrees  A= 22° |   N
+Trend = 46.49 degrees from North in Clockwise direction Plunge = 81.51degrees  A= 24° | NNE
+Trend = 48.23 degrees from North in Clockwise direction Plunge = 79.63degrees  A= 24° | NNE
+Trend = 49.20 degrees from North in Clockwise direction Plunge = 78.18degrees  A= 25° | NNE
+Trend = 40.86 degrees from North in Clockwise direction Plunge = 81.63degrees  A= 23° | NNE
+Trend = 65.32 degrees from North in Clockwise direction Plunge = 86.50degrees  A= 21° |   N
+Trend = 66.60 degrees from North in Clockwise direction Plunge = 84.89degrees  A= 21° |   N
+Trend = 70.78 degrees from North in Clockwise direction Plunge = 85.20degrees  A= 21° |   N
+Trend = 70.92 degrees from North in Clockwise direction Plunge = 86.21degrees  A= 20° |   N
+Trend = 40.70 degrees from North in Clockwise direction Plunge = 82.51degrees  A= 23° | NNE
+Trend = 53.14 degrees from North in Clockwise direction Plunge = 84.59degrees  A= 22° |   N
+Trend = 53.05 degrees from North in Clockwise direction Plunge = 85.05degrees  A= 21° |   N
+Trend = 63.98 degrees from North in Clockwise direction Plunge = 82.34degrees  A= 22° |   N
+Trend = -85.74 degrees from North in Clockwise direction Plunge = 86.35degrees  A= 19° |   N
+Trend = -18.92 degrees from North in Clockwise direction Plunge = 86.75degrees  A= 17° |   N
+Trend = -66.19 degrees from North in Clockwise direction Plunge = 87.82degrees  A= 19° |   N
+Trend = -67.69 degrees from North in Clockwise direction Plunge = 87.07degrees  A= 18° |   N
+Trend = -58.83 degrees from North in Clockwise direction Plunge = 87.93degrees  A= 19° |   N
+Trend = 76.17 degrees from North in Clockwise direction Plunge = 85.90degrees  A= 20° |   N
+Trend = 86.18 degrees from North in Clockwise direction Plunge = 86.55degrees  A= 20° |   N
+Trend = 53.16 degrees from North in Clockwise direction Plunge = 83.77degrees  A= 21° |   N
+Trend = 53.05 degrees from North in Clockwise direction Plunge = 83.51degrees  A= 22° |   N
+Trend = 55.74 degrees from North in Clockwise direction Plunge = 77.58degrees  A= 25° | NNE
+Trend = 47.85 degrees from North in Clockwise direction Plunge = 74.79degrees  A= 27° | NNE
+Trend = 13.61 degrees from North in Clockwise direction Plunge = 79.70degrees  A= 12° |   N
+Trend = 34.31 degrees from North in Clockwise direction Plunge = 68.14degrees  A=  1° |   N
+Trend = 16.48 degrees from North in Clockwise direction Plunge = 70.26degrees  A=  2° |   N
+Trend = 12.91 degrees from North in Clockwise direction Plunge = 70.75degrees  A=  3° |   N
+Trend = 16.17 degrees from North in Clockwise direction Plunge = 68.87degrees  A=  3° |   N
+Trend = 12.77 degrees from North in Clockwise direction Plunge = 72.74degrees  A=  4° |   N
+Trend = 8.85 degrees from North in Clockwise direction Plunge = 74.03degrees  A=  4° |   N
+Trend = 3.18 degrees from North in Clockwise direction Plunge = 72.32degrees  A=  6° |   N
+Trend = 17.24 degrees from North in Clockwise direction Plunge = 71.65degrees  A=  5° |   N
+Trend = 14.58 degrees from North in Clockwise direction Plunge = 73.03degrees  A=  4° |   N
+Trend = 16.31 degrees from North in Clockwise direction Plunge = 72.89degrees  A=  5° |   N
+Trend = 18.36 degrees from North in Clockwise direction Plunge = 72.18degrees  A=  3° |   N
+Trend = 15.70 degrees from North in Clockwise direction Plunge = 72.26degrees  A=  4° |   N
+Trend = 15.96 degrees from North in Clockwise direction Plunge = 72.25degrees  A=  4° |   N
+Trend = 18.24 degrees from North in Clockwise direction Plunge = 72.55degrees  A=  4° |   N
+Trend = 15.97 degrees from North in Clockwise direction Plunge = 73.22degrees  A=  4° |   N
+Trend = 15.24 degrees from North in Clockwise direction Plunge = 72.19degrees  A=  4° |   N
+Trend = 15.13 degrees from North in Clockwise direction Plunge = 72.87degrees  A=  4° |   N
+Trend = 14.81 degrees from North in Clockwise direction Plunge = 71.64degrees  A=  3° |   N
+Trend = 14.34 degrees from North in Clockwise direction Plunge = 70.19degrees  A=  3° |   N
+Trend = 11.56 degrees from North in Clockwise direction Plunge = 71.78degrees  A=  5° |   N
+Trend = 6.64 degrees from North in Clockwise direction Plunge = 74.20degrees  A=  6° |   N
+Trend = 4.17 degrees from North in Clockwise direction Plunge = 73.38degrees  A=  6° |   N
+Trend = 12.08 degrees from North in Clockwise direction Plunge = 67.81degrees  A=  3° |   N
+Trend = 82.78 degrees from North in Clockwise direction Plunge = 17.47degrees  A= 18° |   N
+Trend = 72.85 degrees from North in Clockwise direction Plunge = 8.76degrees  A= 24° | NNE
+Trend = 72.42 degrees from North in Clockwise direction Plunge = 9.14degrees  A= 24° | NNE
+Trend = 72.55 degrees from North in Clockwise direction Plunge = 8.92degrees  A= 25° | NNE
+Trend = 72.27 degrees from North in Clockwise direction Plunge = 9.44degrees  A= 24° | NNE
+Trend = 73.03 degrees from North in Clockwise direction Plunge = 8.49degrees  A= 25° | NNE
+Trend = 72.94 degrees from North in Clockwise direction Plunge = 8.75degrees  A= 24° | NNE
+Trend = 72.88 degrees from North in Clockwise direction Plunge = 8.58degrees  A= 25° | NNE
+Trend = 72.47 degrees from North in Clockwise direction Plunge = 8.91degrees  A= 25° | NNE
+Trend = 72.85 degrees from North in Clockwise direction Plunge = 9.02degrees  A= 25° | NNE
+Trend = 72.86 degrees from North in Clockwise direction Plunge = 8.78degrees  A= 25° | NNE
+Trend = 72.75 degrees from North in Clockwise direction Plunge = 8.86degrees  A= 24° | NNE
+Trend = 72.16 degrees from North in Clockwise direction Plunge = 9.35degrees  A= 24° | NNE
+Trend = 72.70 degrees from North in Clockwise direction Plunge = 8.99degrees  A= 24° | NNE
+Trend = 72.71 degrees from North in Clockwise direction Plunge = 8.79degrees  A= 24° | NNE
+Trend = 72.28 degrees from North in Clockwise direction Plunge = 9.29degrees  A= 24° | NNE
+Trend = 72.62 degrees from North in Clockwise direction Plunge = 9.12degrees  A= 25° | NNE
+Trend = 73.09 degrees from North in Clockwise direction Plunge = 8.46degrees  A= 24° | NNE
+Trend = 72.64 degrees from North in Clockwise direction Plunge = 8.72degrees  A= 24° | NNE
+Trend = 72.68 degrees from North in Clockwise direction Plunge = 8.75degrees  A= 25° | NNE
+Trend = 72.45 degrees from North in Clockwise direction Plunge = 8.95degrees  A= 25° | NNE
+Trend = 72.67 degrees from North in Clockwise direction Plunge = 8.69degrees  A= 24° | NNE
+Trend = 72.33 degrees from North in Clockwise direction Plunge = 9.31degrees  A= 25° | NNE
+Trend = 73.37 degrees from North in Clockwise direction Plunge = 7.72degrees  A= 25° | NNE
+Trend = 73.16 degrees from North in Clockwise direction Plunge = 8.44degrees  A= 25° | NNE
+Trend = 72.23 degrees from North in Clockwise direction Plunge = 8.99degrees  A= 25° | NNE
+Trend = 72.90 degrees from North in Clockwise direction Plunge = 8.31degrees  A= 24° | NNE
+Trend = 72.51 degrees from North in Clockwise direction Plunge = 8.85degrees  A= 24° | NNE
+Trend = 71.73 degrees from North in Clockwise direction Plunge = 9.75degrees  A= 25° | NNE
+Trend = 72.22 degrees from North in Clockwise direction Plunge = 9.12degrees  A= 25° | NNE
+Trend = 72.67 degrees from North in Clockwise direction Plunge = 8.57degrees  A= 24° | NNE
+Trend = 72.43 degrees from North in Clockwise direction Plunge = 9.13degrees  A= 25° | NNE
+Trend = -19.21 degrees from North in Clockwise direction Plunge = 56.89degrees  A= 20° |   N
+Trend = 68.19 degrees from North in Clockwise direction Plunge = 71.32degrees  A= 70° | ENE
+Trend = 26.62 degrees from North in Clockwise direction Plunge = 81.21degrees  A= 70° | ENE
+Trend = 0.53 degrees from North in Clockwise direction Plunge = 70.38degrees  A= 84° | ENE
+Trend = 1.18 degrees from North in Clockwise direction Plunge = 76.70degrees  A= 77° | ENE
+Trend = 29.64 degrees from North in Clockwise direction Plunge = 66.43degrees  A= 85° | ENE
+Trend = 9.36 degrees from North in Clockwise direction Plunge = 71.66degrees  A= 83° | ENE
+Trend = 11.22 degrees from North in Clockwise direction Plunge = 70.46degrees  A= 84° | ENE
+Trend = 7.39 degrees from North in Clockwise direction Plunge = 70.67degrees  A= 83° | ENE
+Trend = 9.98 degrees from North in Clockwise direction Plunge = 70.35degrees  A= 83° | ENE
+Trend = 11.25 degrees from North in Clockwise direction Plunge = 70.39degrees  A= 83° | ENE
+Trend = 9.42 degrees from North in Clockwise direction Plunge = 70.21degrees  A= 83° | ENE
+Trend = 8.97 degrees from North in Clockwise direction Plunge = 70.91degrees  A= 81° | ENE
+Trend = 10.91 degrees from North in Clockwise direction Plunge = 70.26degrees  A= 83° | ENE
+Trend = 10.32 degrees from North in Clockwise direction Plunge = 70.62degrees  A= 83° | ENE
+Trend = 8.91 degrees from North in Clockwise direction Plunge = 70.67degrees  A= 83° | ENE
+Trend = 15.41 degrees from North in Clockwise direction Plunge = 70.10degrees  A= 83° | ENE
+Trend = 10.98 degrees from North in Clockwise direction Plunge = 69.12degrees  A= 86° | ENE
+Trend = 42.86 degrees from North in Clockwise direction Plunge = 72.58degrees  A= 95° |   E
+Trend = 68.47 degrees from North in Clockwise direction Plunge = 72.78degrees  A=103° |   E
+Trend = -88.53 degrees from North in Clockwise direction Plunge = 78.30degrees  A=100° |   E
+Trend = -88.33 degrees from North in Clockwise direction Plunge = 78.07degrees  A=102° |   E
+Trend = 85.31 degrees from North in Clockwise direction Plunge = 77.94degrees  A=102° |   E
+Trend = 85.91 degrees from North in Clockwise direction Plunge = 78.74degrees  A=102° |   E
+Trend = 84.27 degrees from North in Clockwise direction Plunge = 76.91degrees  A=102° |   E
+Trend = 81.08 degrees from North in Clockwise direction Plunge = 77.04degrees  A=103° |   E
+Trend = -83.71 degrees from North in Clockwise direction Plunge = 73.39degrees  A=106° |   E
+Trend = -76.80 degrees from North in Clockwise direction Plunge = 69.41degrees  A=114° | ESE
+Trend = -65.67 degrees from North in Clockwise direction Plunge = 62.74degrees  A=118° | ESE
+Trend = -58.35 degrees from North in Clockwise direction Plunge = 59.00degrees  A=116° | ESE
+Trend = 5.53 degrees from North in Clockwise direction Plunge = 72.72degrees  A= 88° | ENE
+Trend = -1.90 degrees from North in Clockwise direction Plunge = 70.56degrees  A= 84° | ENE
+Trend = 2.25 degrees from North in Clockwise direction Plunge = 69.53degrees  A= 83° | ENE
+Trend = -2.88 degrees from North in Clockwise direction Plunge = 71.16degrees  A= 83° | ENE
+Trend = 3.80 degrees from North in Clockwise direction Plunge = 71.88degrees  A= 83° | ENE
+Trend = -34.95 degrees from North in Clockwise direction Plunge = 61.97degrees  A= 75° | ENE
+Trend = -39.77 degrees from North in Clockwise direction Plunge = 52.23degrees  A= 71° | ENE
+Trend = -58.78 degrees from North in Clockwise direction Plunge = 84.62degrees  A= 87° | ENE
+Trend = 58.30 degrees from North in Clockwise direction Plunge = 84.65degrees  A= 89° | ENE
+Trend = 40.42 degrees from North in Clockwise direction Plunge = 82.05degrees  A= 92° |   E
+Trend = 33.84 degrees from North in Clockwise direction Plunge = 82.43degrees  A= 92° |   E
+Trend = 35.91 degrees from North in Clockwise direction Plunge = 83.64degrees  A= 90° |   E
+Trend = 87.37 degrees from North in Clockwise direction Plunge = 72.02degrees  A= 83° | ENE
+Trend = 85.98 degrees from North in Clockwise direction Plunge = 73.92degrees  A= 84° | ENE
+Trend = 86.78 degrees from North in Clockwise direction Plunge = 73.32degrees  A= 82° | ENE
+Trend = 88.68 degrees from North in Clockwise direction Plunge = 76.56degrees  A= 83° | ENE
+Trend = -88.81 degrees from North in Clockwise direction Plunge = 75.38degrees  A= 83° | ENE
+Trend = 86.16 degrees from North in Clockwise direction Plunge = 75.16degrees  A= 84° | ENE
+Trend = 6.05 degrees from North in Clockwise direction Plunge = 69.91degrees  A= 85° | ENE
+Trend = -22.35 degrees from North in Clockwise direction Plunge = 73.14degrees  A= 53° |  NE
+Trend = 17.87 degrees from North in Clockwise direction Plunge = 70.00degrees  A=  3° |   N
+Trend = 0.85 degrees from North in Clockwise direction Plunge = 71.67degrees  A=  4° |   N
+Trend = 7.70 degrees from North in Clockwise direction Plunge = 71.86degrees  A=  4° |   N
+Trend = 4.50 degrees from North in Clockwise direction Plunge = 71.64degrees  A=  4° |   N
+Trend = 3.74 degrees from North in Clockwise direction Plunge = 71.40degrees  A=  4° |   N
+Trend = 5.74 degrees from North in Clockwise direction Plunge = 71.37degrees  A=  4° |   N
+Trend = 7.37 degrees from North in Clockwise direction Plunge = 70.59degrees  A=  4° |   N
+Trend = 11.75 degrees from North in Clockwise direction Plunge = 69.81degrees  A=  3° |   N
+Trend = 10.30 degrees from North in Clockwise direction Plunge = 69.20degrees  A=  3° |   N
+Trend = 17.77 degrees from North in Clockwise direction Plunge = 71.47degrees  A=  3° |   N
+Trend = 20.08 degrees from North in Clockwise direction Plunge = 65.75degrees  A=  1° |   N
+Trend = 29.22 degrees from North in Clockwise direction Plunge = 69.13degrees  A=  0° |   N
+Trend = 13.89 degrees from North in Clockwise direction Plunge = 68.32degrees  A=  0° |   N
+Trend = 15.45 degrees from North in Clockwise direction Plunge = 71.59degrees  A=359° | NNW
+Trend = 15.36 degrees from North in Clockwise direction Plunge = 72.73degrees  A=359° | NNW
+Trend = 8.83 degrees from North in Clockwise direction Plunge = 72.14degrees  A=359° | NNW
+Trend = 10.44 degrees from North in Clockwise direction Plunge = 69.62degrees  A=358° | NNW
+Trend = -4.64 degrees from North in Clockwise direction Plunge = 66.21degrees  A=  0° |   N
+Trend = -0.07 degrees from North in Clockwise direction Plunge = 71.58degrees  A=  0° |   N
+Trend = -5.92 degrees from North in Clockwise direction Plunge = 68.31degrees  A=  0° |   N
+Trend = -0.69 degrees from North in Clockwise direction Plunge = 67.87degrees  A=  0° |   N
+Trend = 6.00 degrees from North in Clockwise direction Plunge = 69.57degrees  A=  1° |   N
+Trend = 8.41 degrees from North in Clockwise direction Plunge = 68.14degrees  A=  1° |   N
+Trend = 9.00 degrees from North in Clockwise direction Plunge = 66.08degrees  A=  2° |   N
+Trend = 9.62 degrees from North in Clockwise direction Plunge = 70.15degrees  A=  2° |   N
+Trend = 7.63 degrees from North in Clockwise direction Plunge = 70.35degrees  A=  2° |   N
+Trend = 6.99 degrees from North in Clockwise direction Plunge = 69.92degrees  A=  2° |   N
+Trend = 12.11 degrees from North in Clockwise direction Plunge = 70.36degrees  A=  2° |   N
+Trend = 12.70 degrees from North in Clockwise direction Plunge = 70.85degrees  A=  3° |   N
+Trend = 13.04 degrees from North in Clockwise direction Plunge = 70.49degrees  A=  2° |   N
+Trend = 14.30 degrees from North in Clockwise direction Plunge = 71.53degrees  A=  3° |   N
+Trend = 12.41 degrees from North in Clockwise direction Plunge = 70.23degrees  A=  3° |   N
+Trend = 10.81 degrees from North in Clockwise direction Plunge = 70.34degrees  A=  3° |   N
+Trend = 12.35 degrees from North in Clockwise direction Plunge = 70.16degrees  A=  2° |   N
+Trend = 11.90 degrees from North in Clockwise direction Plunge = 72.27degrees  A=  2° |   N
+Trend = -4.80 degrees from North in Clockwise direction Plunge = 66.71degrees  A=  1° |   N
+Trend = -3.71 degrees from North in Clockwise direction Plunge = 66.95degrees  A=  1° |   N
+Trend = -8.56 degrees from North in Clockwise direction Plunge = 66.62degrees  A=  1° |   N
+Trend = -12.43 degrees from North in Clockwise direction Plunge = 67.62degrees  A=  2° |   N
+Trend = -13.31 degrees from North in Clockwise direction Plunge = 67.72degrees  A=  3° |   N
+Trend = -17.93 degrees from North in Clockwise direction Plunge = 64.23degrees  A=  2° |   N
+Trend = -13.69 degrees from North in Clockwise direction Plunge = 65.08degrees  A=  1° |   N
+Trend = -13.38 degrees from North in Clockwise direction Plunge = 63.67degrees  A=  1° |   N
+Trend = -11.89 degrees from North in Clockwise direction Plunge = 62.99degrees  A=  0° |   N
+Trend = -12.00 degrees from North in Clockwise direction Plunge = 61.03degrees  A=  0° |   N
+Trend = -10.24 degrees from North in Clockwise direction Plunge = 60.41degrees  A=  0° |   N
+Trend = -10.78 degrees from North in Clockwise direction Plunge = 59.55degrees  A=  0° |   N
+Trend = -9.75 degrees from North in Clockwise direction Plunge = 58.04degrees  A=359° | NNW
+Trend = -8.59 degrees from North in Clockwise direction Plunge = 56.71degrees  A=  0° |   N
+Trend = -13.89 degrees from North in Clockwise direction Plunge = 53.19degrees  A=359° | NNW
+Trend = -16.60 degrees from North in Clockwise direction Plunge = 47.04degrees  A=358° | NNW
+Trend = -14.93 degrees from North in Clockwise direction Plunge = 47.07degrees  A=358° | NNW
+Trend = -14.46 degrees from North in Clockwise direction Plunge = 47.21degrees  A=358° | NNW
+Trend = -14.56 degrees from North in Clockwise direction Plunge = 47.76degrees  A=358° | NNW
+Trend = -9.21 degrees from North in Clockwise direction Plunge = 50.68degrees  A=358° | NNW
+Trend = -6.55 degrees from North in Clockwise direction Plunge = 49.49degrees  A=359° | NNW
+Trend = 14.62 degrees from North in Clockwise direction Plunge = 71.61degrees  A=  2° |   N
+Trend = 18.09 degrees from North in Clockwise direction Plunge = 73.01degrees  A=  1° |   N
+Trend = 8.56 degrees from North in Clockwise direction Plunge = 69.82degrees  A=  1° |   N
+Trend = 5.83 degrees from North in Clockwise direction Plunge = 70.48degrees  A=  2° |   N
+Trend = 2.98 degrees from North in Clockwise direction Plunge = 70.51degrees  A=  1° |   N
+Trend = 4.85 degrees from North in Clockwise direction Plunge = 68.90degrees  A=  1° |   N
+Trend = 3.00 degrees from North in Clockwise direction Plunge = 69.30degrees  A=  1° |   N
+Trend = 5.21 degrees from North in Clockwise direction Plunge = 69.55degrees  A=  2° |   N
+Trend = 3.39 degrees from North in Clockwise direction Plunge = 70.98degrees  A=  1° |   N
+Trend = 6.24 degrees from North in Clockwise direction Plunge = 69.16degrees  A=  1° |   N
+Trend = 12.39 degrees from North in Clockwise direction Plunge = 68.92degrees  A=  1° |   N
+Trend = 8.30 degrees from North in Clockwise direction Plunge = 68.44degrees  A=  1° |   N
+Trend = 7.48 degrees from North in Clockwise direction Plunge = 68.93degrees  A=  0° |   N
+Trend = 6.09 degrees from North in Clockwise direction Plunge = 68.24degrees  A=  1° |   N
+Trend = 6.59 degrees from North in Clockwise direction Plunge = 68.58degrees  A=  1° |   N
+Trend = 6.86 degrees from North in Clockwise direction Plunge = 69.28degrees  A=  0° |   N
+Trend = 9.00 degrees from North in Clockwise direction Plunge = 68.85degrees  A=  1° |   N
+Trend = 8.76 degrees from North in Clockwise direction Plunge = 69.00degrees  A=  1° |   N
+Trend = 7.66 degrees from North in Clockwise direction Plunge = 70.15degrees  A=  1° |   N
+Trend = 8.72 degrees from North in Clockwise direction Plunge = 68.60degrees  A=  0° |   N
+Trend = 0.19 degrees from North in Clockwise direction Plunge = 69.40degrees  A=  0° |   N
+Trend = 0.98 degrees from North in Clockwise direction Plunge = 69.26degrees  A=  0° |   N
+Trend = -0.03 degrees from North in Clockwise direction Plunge = 70.30degrees  A=  0° |   N
+Trend = 8.48 degrees from North in Clockwise direction Plunge = 68.85degrees  A=  1° |   N
+Trend = 0.69 degrees from North in Clockwise direction Plunge = 69.57degrees  A=  1° |   N
+Trend = 1.60 degrees from North in Clockwise direction Plunge = 70.10degrees  A=  1° |   N
+Trend = 4.73 degrees from North in Clockwise direction Plunge = 69.88degrees  A=  0° |   N
+Trend = 3.63 degrees from North in Clockwise direction Plunge = 71.25degrees  A=  1° |   N
+Trend = 0.21 degrees from North in Clockwise direction Plunge = 70.83degrees  A=  1° |   N
+Trend = -0.41 degrees from North in Clockwise direction Plunge = 71.19degrees  A=  1° |   N
+Trend = -2.42 degrees from North in Clockwise direction Plunge = 70.74degrees  A=  1° |   N
+Trend = -3.59 degrees from North in Clockwise direction Plunge = 70.82degrees  A=  0° |   N
+Trend = -4.48 degrees from North in Clockwise direction Plunge = 70.30degrees  A=  1° |   N
+Trend = -0.26 degrees from North in Clockwise direction Plunge = 71.00degrees  A=  0° |   N
+Trend = -1.50 degrees from North in Clockwise direction Plunge = 71.11degrees  A=  1° |   N
+Trend = 0.59 degrees from North in Clockwise direction Plunge = 70.42degrees  A=  1° |   N
+Trend = 0.49 degrees from North in Clockwise direction Plunge = 70.76degrees  A=  1° |   N
+Trend = 3.88 degrees from North in Clockwise direction Plunge = 70.61degrees  A=  0° |   N
+Trend = 3.71 degrees from North in Clockwise direction Plunge = 70.61degrees  A=  0° |   N
+Trend = 0.52 degrees from North in Clockwise direction Plunge = 69.78degrees  A=  1° |   N
+Trend = 3.18 degrees from North in Clockwise direction Plunge = 70.75degrees  A=  1° |   N
+Trend = 0.41 degrees from North in Clockwise direction Plunge = 71.18degrees  A=  1° |   N
+Trend = 3.81 degrees from North in Clockwise direction Plunge = 70.99degrees  A=  0° |   N
+Trend = -0.03 degrees from North in Clockwise direction Plunge = 71.38degrees  A=  2° |   N
+Trend = 0.32 degrees from North in Clockwise direction Plunge = 71.50degrees  A=  1° |   N
+Trend = -0.79 degrees from North in Clockwise direction Plunge = 71.02degrees  A=  1° |   N
+Trend = -3.96 degrees from North in Clockwise direction Plunge = 71.06degrees  A=  1° |   N
+Trend = -3.96 degrees from North in Clockwise direction Plunge = 71.27degrees  A=  1° |   N
+Trend = 1.33 degrees from North in Clockwise direction Plunge = 71.50degrees  A=  1° |   N
+Trend = 0.66 degrees from North in Clockwise direction Plunge = 71.74degrees  A=  1° |   N
+Trend = 1.52 degrees from North in Clockwise direction Plunge = 69.48degrees  A=  1° |   N
+Trend = 13.07 degrees from North in Clockwise direction Plunge = 70.82degrees  A=  1° |   N
+Trend = -8.74 degrees from North in Clockwise direction Plunge = 71.33degrees  A=  1° |   N
+Trend = -5.33 degrees from North in Clockwise direction Plunge = 71.21degrees  A=  0° |   N
+Trend = 0.12 degrees from North in Clockwise direction Plunge = 70.99degrees  A=  1° |   N
+Trend = 3.28 degrees from North in Clockwise direction Plunge = 72.39degrees  A=  1° |   N
+Trend = 1.09 degrees from North in Clockwise direction Plunge = 76.21degrees  A=  2° |   N
+Trend = -4.50 degrees from North in Clockwise direction Plunge = 73.30degrees  A=  1° |   N
+Trend = 2.79 degrees from North in Clockwise direction Plunge = 71.90degrees  A=  1° |   N
+Trend = 11.75 degrees from North in Clockwise direction Plunge = 68.55degrees  A=  2° |   N
+Trend = 11.54 degrees from North in Clockwise direction Plunge = 68.04degrees  A=  1° |   N
+Trend = 13.49 degrees from North in Clockwise direction Plunge = 69.54degrees  A=  0° |   N
+Trend = 8.87 degrees from North in Clockwise direction Plunge = 67.71degrees  A=  0° |   N
+Trend = 14.26 degrees from North in Clockwise direction Plunge = 70.64degrees  A=  1° |   N
+Trend = 10.52 degrees from North in Clockwise direction Plunge = 70.32degrees  A=  0° |   N
+Trend = 12.21 degrees from North in Clockwise direction Plunge = 68.76degrees  A=  0° |   N
+Trend = 11.95 degrees from North in Clockwise direction Plunge = 67.99degrees  A=  0° |   N
+Trend = 12.83 degrees from North in Clockwise direction Plunge = 68.89degrees  A=  0° |   N
+Trend = 15.39 degrees from North in Clockwise direction Plunge = 69.65degrees  A=  1° |   N
+Trend = 18.15 degrees from North in Clockwise direction Plunge = 65.02degrees  A=  1° |   N
+Trend = 11.87 degrees from North in Clockwise direction Plunge = 69.79degrees  A=  0° |   N
+Trend = 12.94 degrees from North in Clockwise direction Plunge = 73.98degrees  A=  1° |   N
+Trend = 6.46 degrees from North in Clockwise direction Plunge = 72.23degrees  A=  1° |   N
+Trend = 9.51 degrees from North in Clockwise direction Plunge = 72.48degrees  A=  2° |   N
+Trend = 9.90 degrees from North in Clockwise direction Plunge = 71.98degrees  A=  2° |   N
+Trend = 9.01 degrees from North in Clockwise direction Plunge = 71.94degrees  A=  2° |   N
+Trend = 8.42 degrees from North in Clockwise direction Plunge = 72.21degrees  A=  3° |   N
+Trend = 9.62 degrees from North in Clockwise direction Plunge = 72.06degrees  A=  2° |   N
+Trend = 8.02 degrees from North in Clockwise direction Plunge = 72.12degrees  A=  2° |   N
+Trend = 9.31 degrees from North in Clockwise direction Plunge = 70.80degrees  A=  2° |   N
+Trend = 6.62 degrees from North in Clockwise direction Plunge = 71.25degrees  A=  2° |   N
+Trend = 3.71 degrees from North in Clockwise direction Plunge = 71.50degrees  A=  2° |   N
+Trend = 3.59 degrees from North in Clockwise direction Plunge = 71.54degrees  A=  2° |   N
+Trend = 1.44 degrees from North in Clockwise direction Plunge = 71.54degrees  A=  2° |   N
+Trend = 0.71 degrees from North in Clockwise direction Plunge = 71.76degrees  A=  2° |   N
+Trend = 5.18 degrees from North in Clockwise direction Plunge = 72.07degrees  A=  1° |   N
+Trend = -9.20 degrees from North in Clockwise direction Plunge = 78.89degrees  A=  8° |   N
+Trend = 13.85 degrees from North in Clockwise direction Plunge = 73.39degrees  A= 14° |   N
+Trend = 12.00 degrees from North in Clockwise direction Plunge = 73.34degrees  A= 15° |   N
+Trend = 7.00 degrees from North in Clockwise direction Plunge = 70.54degrees  A= 15° |   N
+Trend = 9.29 degrees from North in Clockwise direction Plunge = 72.76degrees  A=  0° |   N
+Trend = 12.53 degrees from North in Clockwise direction Plunge = 70.87degrees  A=358° | NNW
+Trend = 14.85 degrees from North in Clockwise direction Plunge = 72.68degrees  A=359° | NNW
+Trend = 18.88 degrees from North in Clockwise direction Plunge = 76.72degrees  A=359° | NNW
+Trend = 15.77 degrees from North in Clockwise direction Plunge = 74.88degrees  A=359° | NNW
+Trend = 20.58 degrees from North in Clockwise direction Plunge = 68.69degrees  A=  0° |   N
+Trend = 17.04 degrees from North in Clockwise direction Plunge = 75.17degrees  A=359° | NNW
+Trend = 4.07 degrees from North in Clockwise direction Plunge = 76.59degrees  A=  0° |   N
+Trend = 14.08 degrees from North in Clockwise direction Plunge = 76.91degrees  A=  0° |   N
+Trend = 15.13 degrees from North in Clockwise direction Plunge = 76.44degrees  A=  0° |   N
+Trend = 15.55 degrees from North in Clockwise direction Plunge = 75.81degrees  A=  0° |   N
+Trend = 19.46 degrees from North in Clockwise direction Plunge = 76.00degrees  A=  0° |   N
+Trend = 17.01 degrees from North in Clockwise direction Plunge = 76.85degrees  A=  0° |   N
+Trend = 19.42 degrees from North in Clockwise direction Plunge = 73.98degrees  A=  0° |   N
+Trend = 19.96 degrees from North in Clockwise direction Plunge = 75.67degrees  A=  0° |   N
+Trend = 20.01 degrees from North in Clockwise direction Plunge = 76.49degrees  A=  0° |   N
+Trend = 20.04 degrees from North in Clockwise direction Plunge = 75.68degrees  A=  0° |   N
+Trend = 19.75 degrees from North in Clockwise direction Plunge = 76.12degrees  A=  0° |   N
+Trend = 18.25 degrees from North in Clockwise direction Plunge = 76.51degrees  A=  0° |   N
+Trend = 16.27 degrees from North in Clockwise direction Plunge = 75.87degrees  A=  0° |   N
+Trend = 26.20 degrees from North in Clockwise direction Plunge = 73.33degrees  A=  0° |   N
+Trend = 19.24 degrees from North in Clockwise direction Plunge = 74.95degrees  A=  0° |   N
+Trend = 19.28 degrees from North in Clockwise direction Plunge = 75.40degrees  A=359° | NNW
+Trend = 22.57 degrees from North in Clockwise direction Plunge = 74.91degrees  A=  0° |   N
+Trend = 1.72 degrees from North in Clockwise direction Plunge = 75.41degrees  A=  2° |   N
+Trend = 30.39 degrees from North in Clockwise direction Plunge = 72.55degrees  A= 21° |   N
+Trend = 23.26 degrees from North in Clockwise direction Plunge = 73.58degrees  A=  9° |   N
+Trend = 25.71 degrees from North in Clockwise direction Plunge = 75.97degrees  A= 21° |   N
+Trend = 22.32 degrees from North in Clockwise direction Plunge = 71.94degrees  A= 34° | NNE
+Trend = 10.90 degrees from North in Clockwise direction Plunge = 77.19degrees  A= 48° |  NE
+Trend = 25.02 degrees from North in Clockwise direction Plunge = 73.87degrees  A= 35° | NNE
+Trend = 11.87 degrees from North in Clockwise direction Plunge = 76.28degrees  A= 31° | NNE
+Trend = 20.21 degrees from North in Clockwise direction Plunge = 73.97degrees  A= 16° |   N
+Trend = 16.02 degrees from North in Clockwise direction Plunge = 73.68degrees  A= 57° |  NE
+Trend = 40.01 degrees from North in Clockwise direction Plunge = 76.69degrees  A= 64° |  NE
+Trend = 22.74 degrees from North in Clockwise direction Plunge = 74.78degrees  A= 21° |   N
+Trend = 21.44 degrees from North in Clockwise direction Plunge = 76.17degrees  A= 51° |  NE
+Trend = 19.54 degrees from North in Clockwise direction Plunge = 75.96degrees  A= 31° | NNE
+Trend = 28.24 degrees from North in Clockwise direction Plunge = 72.23degrees  A= 26° | NNE
+Trend = 20.12 degrees from North in Clockwise direction Plunge = 75.02degrees  A= 31° | NNE
+Trend = 25.23 degrees from North in Clockwise direction Plunge = 74.71degrees  A= 35° | NNE
+Trend = 6.89 degrees from North in Clockwise direction Plunge = 77.17degrees  A= 24° | NNE
+Trend = 17.71 degrees from North in Clockwise direction Plunge = 70.41degrees  A= 21° |   N
+Trend = -16.19 degrees from North in Clockwise direction Plunge = 73.48degrees  A= 28° | NNE
+Trend = 9.70 degrees from North in Clockwise direction Plunge = 76.31degrees  A= 29° | NNE
+Trend = 5.05 degrees from North in Clockwise direction Plunge = 73.75degrees  A= 48° |  NE
+Trend = 6.61 degrees from North in Clockwise direction Plunge = 72.44degrees  A= 49° |  NE
+Trend = 10.55 degrees from North in Clockwise direction Plunge = 74.47degrees  A= 55° |  NE
+Trend = 10.04 degrees from North in Clockwise direction Plunge = 73.11degrees  A= 45° |  NE
+Trend = 7.65 degrees from North in Clockwise direction Plunge = 73.34degrees  A= 54° |  NE
+Trend = 15.03 degrees from North in Clockwise direction Plunge = 70.37degrees  A= 54° |  NE
+Trend = 9.14 degrees from North in Clockwise direction Plunge = 72.36degrees  A= 57° |  NE
+Trend = 16.67 degrees from North in Clockwise direction Plunge = 71.16degrees  A= 56° |  NE
+Trend = 8.78 degrees from North in Clockwise direction Plunge = 71.61degrees  A= 51° |  NE
+Trend = 11.05 degrees from North in Clockwise direction Plunge = 73.00degrees  A= 55° |  NE
+Trend = 10.55 degrees from North in Clockwise direction Plunge = 70.80degrees  A= 65° |  NE
+Trend = 2.95 degrees from North in Clockwise direction Plunge = 66.48degrees  A= 71° | ENE
+Trend = 8.86 degrees from North in Clockwise direction Plunge = 70.42degrees  A= 80° | ENE
+Trend = 6.83 degrees from North in Clockwise direction Plunge = 68.71degrees  A= 88° | ENE
+Trend = 9.76 degrees from North in Clockwise direction Plunge = 73.45degrees  A= 85° | ENE
+Trend = 10.43 degrees from North in Clockwise direction Plunge = 75.80degrees  A= 77° | ENE
+Trend = -5.60 degrees from North in Clockwise direction Plunge = 74.76degrees  A= 77° | ENE
+Trend = -1.10 degrees from North in Clockwise direction Plunge = 74.34degrees  A= 76° | ENE
+Trend = -11.04 degrees from North in Clockwise direction Plunge = 73.69degrees  A= 81° | ENE
+Trend = -7.68 degrees from North in Clockwise direction Plunge = 75.83degrees  A= 84° | ENE
+Trend = 1.08 degrees from North in Clockwise direction Plunge = 74.24degrees  A= 75° | ENE
+Trend = 7.86 degrees from North in Clockwise direction Plunge = 72.40degrees  A= 78° | ENE
+Trend = 12.98 degrees from North in Clockwise direction Plunge = 70.95degrees  A= 76° | ENE
+Trend = 4.45 degrees from North in Clockwise direction Plunge = 76.56degrees  A= 74° | ENE
+Trend = 14.39 degrees from North in Clockwise direction Plunge = 76.17degrees  A= 73° | ENE
+Trend = 19.84 degrees from North in Clockwise direction Plunge = 77.68degrees  A= 73° | ENE
+Trend = 10.49 degrees from North in Clockwise direction Plunge = 74.97degrees  A= 62° |  NE
+Trend = 2.30 degrees from North in Clockwise direction Plunge = 72.31degrees  A= 56° |  NE
+Trend = 1.66 degrees from North in Clockwise direction Plunge = 73.85degrees  A= 55° |  NE
+Trend = 7.06 degrees from North in Clockwise direction Plunge = 76.70degrees  A= 50° |  NE
+Trend = -3.94 degrees from North in Clockwise direction Plunge = 72.74degrees  A= 71° | ENE
+Trend = 6.65 degrees from North in Clockwise direction Plunge = 72.96degrees  A= 67° |  NE
+Trend = -7.70 degrees from North in Clockwise direction Plunge = 74.41degrees  A= 73° | ENE
+Trend = -4.48 degrees from North in Clockwise direction Plunge = 73.06degrees  A= 74° | ENE
+Trend = -0.07 degrees from North in Clockwise direction Plunge = 70.89degrees  A= 73° | ENE
+Trend = -0.76 degrees from North in Clockwise direction Plunge = 74.30degrees  A= 73° | ENE
+Trend = 0.79 degrees from North in Clockwise direction Plunge = 73.90degrees  A= 71° | ENE
+Trend = 0.75 degrees from North in Clockwise direction Plunge = 71.56degrees  A= 72° | ENE
+Trend = 1.99 degrees from North in Clockwise direction Plunge = 68.02degrees  A= 74° | ENE
+Trend = 3.95 degrees from North in Clockwise direction Plunge = 75.75degrees  A= 68° | ENE
+Trend = -37.21 degrees from North in Clockwise direction Plunge = 70.59degrees  A= 72° | ENE
+Trend = 6.41 degrees from North in Clockwise direction Plunge = 79.56degrees  A= 74° | ENE
+Trend = -15.43 degrees from North in Clockwise direction Plunge = 76.20degrees  A= 73° | ENE
+Trend = -10.27 degrees from North in Clockwise direction Plunge = 75.86degrees  A= 73° | ENE
+Trend = 5.22 degrees from North in Clockwise direction Plunge = 75.39degrees  A= 72° | ENE
+Trend = 1.50 degrees from North in Clockwise direction Plunge = 80.52degrees  A= 73° | ENE
+Trend = 31.22 degrees from North in Clockwise direction Plunge = 75.67degrees  A= 73° | ENE
+Trend = -12.82 degrees from North in Clockwise direction Plunge = 74.60degrees  A= 72° | ENE
+Trend = 4.18 degrees from North in Clockwise direction Plunge = 78.91degrees  A= 72° | ENE
+Trend = -2.25 degrees from North in Clockwise direction Plunge = 76.49degrees  A= 72° | ENE
+Trend = -10.25 degrees from North in Clockwise direction Plunge = 76.68degrees  A= 72° | ENE
+Trend = 2.01 degrees from North in Clockwise direction Plunge = 74.04degrees  A= 72° | ENE
+Trend = 2.05 degrees from North in Clockwise direction Plunge = 77.22degrees  A= 72° | ENE
+Trend = -0.15 degrees from North in Clockwise direction Plunge = 75.83degrees  A= 72° | ENE
+Trend = -1.04 degrees from North in Clockwise direction Plunge = 74.31degrees  A= 72° | ENE
+Trend = 2.67 degrees from North in Clockwise direction Plunge = 74.62degrees  A= 72° | ENE
+Trend = 7.00 degrees from North in Clockwise direction Plunge = 75.65degrees  A= 73° | ENE
+Trend = 4.58 degrees from North in Clockwise direction Plunge = 74.13degrees  A= 70° | ENE
+Trend = 8.13 degrees from North in Clockwise direction Plunge = 75.38degrees  A= 71° | ENE
+Trend = 11.22 degrees from North in Clockwise direction Plunge = 75.90degrees  A= 70° | ENE
+Trend = 6.53 degrees from North in Clockwise direction Plunge = 68.89degrees  A= 69° | ENE
+Trend = 2.69 degrees from North in Clockwise direction Plunge = 74.75degrees  A= 70° | ENE
+Trend = 3.34 degrees from North in Clockwise direction Plunge = 71.40degrees  A= 70° | ENE
+Trend = -0.84 degrees from North in Clockwise direction Plunge = 69.73degrees  A= 69° | ENE
+Trend = 13.13 degrees from North in Clockwise direction Plunge = 72.87degrees  A= 69° | ENE
+Trend = 6.96 degrees from North in Clockwise direction Plunge = 72.43degrees  A= 64° |  NE
+Trend = 5.60 degrees from North in Clockwise direction Plunge = 71.53degrees  A= 65° |  NE
+Trend = 1.30 degrees from North in Clockwise direction Plunge = 70.97degrees  A= 65° |  NE
+Trend = 4.96 degrees from North in Clockwise direction Plunge = 71.38degrees  A= 64° |  NE
+Trend = 4.22 degrees from North in Clockwise direction Plunge = 70.43degrees  A= 63° |  NE
+Trend = 9.24 degrees from North in Clockwise direction Plunge = 71.50degrees  A= 63° |  NE
+Trend = 7.92 degrees from North in Clockwise direction Plunge = 70.01degrees  A= 63° |  NE
+Trend = 7.88 degrees from North in Clockwise direction Plunge = 70.96degrees  A= 63° |  NE
+Trend = 4.92 degrees from North in Clockwise direction Plunge = 70.88degrees  A= 63° |  NE
+Trend = 5.87 degrees from North in Clockwise direction Plunge = 71.07degrees  A= 62° |  NE
+Trend = 1.80 degrees from North in Clockwise direction Plunge = 70.03degrees  A= 63° |  NE
+Trend = 12.90 degrees from North in Clockwise direction Plunge = 71.96degrees  A= 63° |  NE
+Trend = 6.53 degrees from North in Clockwise direction Plunge = 69.47degrees  A= 63° |  NE
+Trend = 5.29 degrees from North in Clockwise direction Plunge = 67.61degrees  A= 66° |  NE
+Trend = 3.43 degrees from North in Clockwise direction Plunge = 76.29degrees  A= 61° |  NE
+Trend = 5.99 degrees from North in Clockwise direction Plunge = 69.85degrees  A= 66° |  NE
+Trend = 14.00 degrees from North in Clockwise direction Plunge = 71.03degrees  A= 66° |  NE
+Trend = 12.99 degrees from North in Clockwise direction Plunge = 71.19degrees  A= 66° |  NE
+Trend = 11.28 degrees from North in Clockwise direction Plunge = 71.39degrees  A= 66° |  NE
+Trend = 11.12 degrees from North in Clockwise direction Plunge = 70.77degrees  A= 66° |  NE
+Trend = 13.81 degrees from North in Clockwise direction Plunge = 71.76degrees  A= 66° |  NE
+Trend = 11.48 degrees from North in Clockwise direction Plunge = 71.12degrees  A= 67° |  NE
+Trend = 13.04 degrees from North in Clockwise direction Plunge = 71.01degrees  A= 67° |  NE
+Trend = 10.45 degrees from North in Clockwise direction Plunge = 71.22degrees  A= 66° |  NE
+Trend = 11.53 degrees from North in Clockwise direction Plunge = 71.22degrees  A= 67° |  NE
+Trend = 12.22 degrees from North in Clockwise direction Plunge = 71.13degrees  A= 66° |  NE
+Trend = 13.75 degrees from North in Clockwise direction Plunge = 71.18degrees  A= 65° |  NE
+Trend = 11.40 degrees from North in Clockwise direction Plunge = 70.78degrees  A= 62° |  NE
+Trend = 12.41 degrees from North in Clockwise direction Plunge = 69.55degrees  A= 81° | ENE
+Trend = 13.29 degrees from North in Clockwise direction Plunge = 70.42degrees  A= 90° |   E
+Trend = 8.81 degrees from North in Clockwise direction Plunge = 71.61degrees  A= 93° |   E
+Trend = 9.13 degrees from North in Clockwise direction Plunge = 71.63degrees  A= 92° |   E
+Trend = 9.23 degrees from North in Clockwise direction Plunge = 70.84degrees  A= 87° | ENE
+Trend = 12.49 degrees from North in Clockwise direction Plunge = 71.06degrees  A= 73° | ENE
+Trend = 9.26 degrees from North in Clockwise direction Plunge = 71.70degrees  A= 81° | ENE
+Trend = 5.27 degrees from North in Clockwise direction Plunge = 74.81degrees  A= 81° | ENE
+Trend = 10.31 degrees from North in Clockwise direction Plunge = 70.10degrees  A= 58° |  NE
+Trend = 10.14 degrees from North in Clockwise direction Plunge = 70.49degrees  A= 57° |  NE
+Trend = 11.09 degrees from North in Clockwise direction Plunge = 70.78degrees  A= 57° |  NE
+Trend = 10.62 degrees from North in Clockwise direction Plunge = 70.23degrees  A= 54° |  NE
+Trend = 10.90 degrees from North in Clockwise direction Plunge = 69.94degrees  A= 53° |  NE
+Trend = 11.61 degrees from North in Clockwise direction Plunge = 70.20degrees  A= 53° |  NE
+Trend = 11.18 degrees from North in Clockwise direction Plunge = 70.53degrees  A= 52° |  NE
+Trend = 9.87 degrees from North in Clockwise direction Plunge = 70.24degrees  A= 52° |  NE
+Trend = 2.74 degrees from North in Clockwise direction Plunge = 68.33degrees  A= 50° |  NE
+Trend = 10.22 degrees from North in Clockwise direction Plunge = 71.00degrees  A= 59° |  NE
+Trend = 10.78 degrees from North in Clockwise direction Plunge = 69.75degrees  A= 65° |  NE
+Trend = 9.09 degrees from North in Clockwise direction Plunge = 71.45degrees  A= 79° | ENE
+Trend = 8.14 degrees from North in Clockwise direction Plunge = 71.04degrees  A= 71° | ENE
+Trend = 6.42 degrees from North in Clockwise direction Plunge = 71.51degrees  A= 64° |  NE
+Trend = 9.56 degrees from North in Clockwise direction Plunge = 71.12degrees  A= 59° |  NE
+Trend = 10.98 degrees from North in Clockwise direction Plunge = 71.66degrees  A= 55° |  NE
+Trend = 0.99 degrees from North in Clockwise direction Plunge = 70.50degrees  A= 62° |  NE
+Trend = 5.21 degrees from North in Clockwise direction Plunge = 69.49degrees  A= 75° | ENE
+Trend = 7.24 degrees from North in Clockwise direction Plunge = 69.07degrees  A= 83° | ENE
+Trend = 5.31 degrees from North in Clockwise direction Plunge = 68.69degrees  A= 80° | ENE
+Trend = 5.45 degrees from North in Clockwise direction Plunge = 71.38degrees  A= 75° | ENE
+Trend = 3.24 degrees from North in Clockwise direction Plunge = 70.34degrees  A= 74° | ENE
+Trend = 1.28 degrees from North in Clockwise direction Plunge = 68.82degrees  A= 74° | ENE
+Trend = 5.18 degrees from North in Clockwise direction Plunge = 67.78degrees  A= 74° | ENE
+Trend = 1.16 degrees from North in Clockwise direction Plunge = 64.20degrees  A= 74° | ENE
+Trend = 3.79 degrees from North in Clockwise direction Plunge = 72.21degrees  A= 75° | ENE
+Trend = 3.10 degrees from North in Clockwise direction Plunge = 68.10degrees  A= 73° | ENE
+Trend = 0.24 degrees from North in Clockwise direction Plunge = 69.42degrees  A= 74° | ENE
+Trend = 1.83 degrees from North in Clockwise direction Plunge = 72.75degrees  A= 74° | ENE
+Trend = 6.52 degrees from North in Clockwise direction Plunge = 70.02degrees  A= 72° | ENE
+Trend = 8.97 degrees from North in Clockwise direction Plunge = 71.33degrees  A= 71° | ENE
+Trend = 11.99 degrees from North in Clockwise direction Plunge = 72.26degrees  A= 71° | ENE
+Trend = -5.62 degrees from North in Clockwise direction Plunge = 76.02degrees  A= 71° | ENE
+Trend = 5.85 degrees from North in Clockwise direction Plunge = 72.00degrees  A= 69° | ENE
+Trend = 13.84 degrees from North in Clockwise direction Plunge = 71.29degrees  A= 68° | ENE
+Trend = 17.84 degrees from North in Clockwise direction Plunge = 70.55degrees  A= 68° | ENE
+Trend = 10.74 degrees from North in Clockwise direction Plunge = 72.87degrees  A= 68° | ENE
+Trend = 16.34 degrees from North in Clockwise direction Plunge = 72.47degrees  A= 69° | ENE
+Trend = 24.17 degrees from North in Clockwise direction Plunge = 71.61degrees  A= 69° | ENE
+Trend = 8.31 degrees from North in Clockwise direction Plunge = 71.13degrees  A= 70° | ENE
+Trend = 9.88 degrees from North in Clockwise direction Plunge = 73.19degrees  A= 70° | ENE
+Trend = 6.01 degrees from North in Clockwise direction Plunge = 69.78degrees  A= 67° |  NE
+Trend = 12.57 degrees from North in Clockwise direction Plunge = 71.99degrees  A= 67° |  NE
+Trend = 19.45 degrees from North in Clockwise direction Plunge = 71.78degrees  A= 68° | ENE
+Trend = 18.51 degrees from North in Clockwise direction Plunge = 71.62degrees  A= 67° |  NE
+Trend = 21.01 degrees from North in Clockwise direction Plunge = 67.82degrees  A= 66° |  NE
+Trend = 16.54 degrees from North in Clockwise direction Plunge = 71.59degrees  A= 68° | ENE
+Trend = 15.20 degrees from North in Clockwise direction Plunge = 71.07degrees  A= 66° |  NE
+Trend = 9.72 degrees from North in Clockwise direction Plunge = 71.62degrees  A= 70° | ENE
+Trend = 12.05 degrees from North in Clockwise direction Plunge = 72.80degrees  A=311° | WNW
+Trend = 7.75 degrees from North in Clockwise direction Plunge = 71.59degrees  A=311° | WNW
+Trend = 5.11 degrees from North in Clockwise direction Plunge = 72.38degrees  A= 13° |   N
+Trend = 6.81 degrees from North in Clockwise direction Plunge = 73.40degrees  A=  2° |   N
+Trend = 6.16 degrees from North in Clockwise direction Plunge = 71.90degrees  A=  5° |   N
+Trend = 12.44 degrees from North in Clockwise direction Plunge = 72.93degrees  A=  6° |   N
+Trend = 6.46 degrees from North in Clockwise direction Plunge = 71.74degrees  A=  6° |   N
+Trend = -0.03 degrees from North in Clockwise direction Plunge = 71.48degrees  A=  6° |   N
+Trend = 4.04 degrees from North in Clockwise direction Plunge = 72.78degrees  A=  7° |   N
+Trend = 2.92 degrees from North in Clockwise direction Plunge = 72.13degrees  A=  8° |   N
+Trend = 3.22 degrees from North in Clockwise direction Plunge = 70.98degrees  A=  5° |   N
+Trend = 4.15 degrees from North in Clockwise direction Plunge = 71.59degrees  A=  6° |   N
+Trend = 2.74 degrees from North in Clockwise direction Plunge = 72.23degrees  A=  6° |   N
+Trend = 2.94 degrees from North in Clockwise direction Plunge = 69.94degrees  A=  6° |   N
+Trend = 5.95 degrees from North in Clockwise direction Plunge = 70.99degrees  A=  7° |   N
+Trend = 5.61 degrees from North in Clockwise direction Plunge = 71.00degrees  A=  6° |   N
+Trend = 5.16 degrees from North in Clockwise direction Plunge = 70.60degrees  A=  6° |   N
+Trend = 5.06 degrees from North in Clockwise direction Plunge = 70.43degrees  A=  6° |   N
+Trend = 4.62 degrees from North in Clockwise direction Plunge = 70.47degrees  A=  6° |   N
+Trend = 7.26 degrees from North in Clockwise direction Plunge = 71.32degrees  A=  5° |   N
+Trend = 3.04 degrees from North in Clockwise direction Plunge = 70.44degrees  A=  6° |   N
+Trend = 7.38 degrees from North in Clockwise direction Plunge = 70.28degrees  A=  6° |   N
+Trend = 3.38 degrees from North in Clockwise direction Plunge = 71.14degrees  A=342° | NNW
+Trend = 4.57 degrees from North in Clockwise direction Plunge = 70.40degrees  A=356° | NNW
+Trend = 6.54 degrees from North in Clockwise direction Plunge = 71.12degrees  A=357° | NNW
+Trend = 1.83 degrees from North in Clockwise direction Plunge = 71.17degrees  A= 10° |   N
+Trend = 3.97 degrees from North in Clockwise direction Plunge = 71.16degrees  A=304° | WNW
+Trend = 3.73 degrees from North in Clockwise direction Plunge = 70.34degrees  A=  5° |   N
+Trend = 7.54 degrees from North in Clockwise direction Plunge = 70.32degrees  A=  6° |   N
+Trend = 4.76 degrees from North in Clockwise direction Plunge = 70.55degrees  A=  7° |   N
+Trend = 3.46 degrees from North in Clockwise direction Plunge = 70.29degrees  A=  5° |   N
+Trend = 3.29 degrees from North in Clockwise direction Plunge = 70.79degrees  A=  3° |   N
+Trend = -0.21 degrees from North in Clockwise direction Plunge = 70.30degrees  A=  7° |   N
+Trend = 15.31 degrees from North in Clockwise direction Plunge = 77.66degrees  A= 78° | ENE
+Trend = -6.74 degrees from North in Clockwise direction Plunge = 74.93degrees  A=196° |   S
+Trend = -21.34 degrees from North in Clockwise direction Plunge = 77.61degrees  A=165° | SSE
+Trend = -4.07 degrees from North in Clockwise direction Plunge = 75.47degrees  A=216° | SSW
+Trend = -8.76 degrees from North in Clockwise direction Plunge = 72.31degrees  A=103° |   E
+Trend = 7.27 degrees from North in Clockwise direction Plunge = 75.08degrees  A= 87° | ENE
+Trend = -1.69 degrees from North in Clockwise direction Plunge = 71.68degrees  A=314° | WNW
+Trend = -0.40 degrees from North in Clockwise direction Plunge = 72.83degrees  A=317° |  NW
+Trend = 2.87 degrees from North in Clockwise direction Plunge = 72.11degrees  A=354° | NNW
+Trend = -3.13 degrees from North in Clockwise direction Plunge = 72.74degrees  A=353° | NNW
+Trend = 6.29 degrees from North in Clockwise direction Plunge = 74.42degrees  A=324° |  NW
+Trend = 15.31 degrees from North in Clockwise direction Plunge = 70.05degrees  A=130° | ESE
+Trend = -52.06 degrees from North in Clockwise direction Plunge = 70.76degrees  A= 12° |   N
+Trend = -48.42 degrees from North in Clockwise direction Plunge = 56.72degrees  A=275° |   W
+Trend = -41.68 degrees from North in Clockwise direction Plunge = 56.85degrees  A=287° |   W
+Trend = -35.79 degrees from North in Clockwise direction Plunge = 50.07degrees  A=285° |   W
+Trend = -12.78 degrees from North in Clockwise direction Plunge = 58.14degrees  A=300° | WNW
+Trend = -20.09 degrees from North in Clockwise direction Plunge = 58.10degrees  A=307° | WNW
+Trend = -19.20 degrees from North in Clockwise direction Plunge = 53.11degrees  A=311° | WNW
+Trend = -30.79 degrees from North in Clockwise direction Plunge = 54.34degrees  A=307° | WNW
+Trend = -25.06 degrees from North in Clockwise direction Plunge = 54.91degrees  A=303° | WNW
+Trend = -19.03 degrees from North in Clockwise direction Plunge = 55.65degrees  A=291° |   W
+Trend = -22.78 degrees from North in Clockwise direction Plunge = 60.73degrees  A=291° |   W
+Trend = -8.17 degrees from North in Clockwise direction Plunge = 59.01degrees  A= 10° |   N
+Trend = -15.30 degrees from North in Clockwise direction Plunge = 57.20degrees  A= 12° |   N
+Trend = -10.75 degrees from North in Clockwise direction Plunge = 58.53degrees  A=305° | WNW
+Trend = -8.45 degrees from North in Clockwise direction Plunge = 64.40degrees  A=346° | NNW
+Trend = -14.78 degrees from North in Clockwise direction Plunge = 66.51degrees  A=  0° |   N
+Trend = -17.46 degrees from North in Clockwise direction Plunge = 64.61degrees  A= 10° |   N
+Trend = -12.67 degrees from North in Clockwise direction Plunge = 49.33degrees  A=311° | WNW
+Trend = 2.60 degrees from North in Clockwise direction Plunge = 61.79degrees  A=174° | SSE
+Trend = -19.99 degrees from North in Clockwise direction Plunge = 54.24degrees  A=315° |  NW
+Trend = -8.15 degrees from North in Clockwise direction Plunge = 58.57degrees  A=315° |  NW
+Trend = -2.49 degrees from North in Clockwise direction Plunge = 57.42degrees  A=213° | SSW
+Trend = 10.39 degrees from North in Clockwise direction Plunge = 70.48degrees  A=169° | SSE
+Trend = 8.88 degrees from North in Clockwise direction Plunge = 76.69degrees  A=305° | WNW
+Trend = -10.48 degrees from North in Clockwise direction Plunge = 82.81degrees  A=  5° |   N
+Trend = 7.26 degrees from North in Clockwise direction Plunge = 70.00degrees  A= 61° |  NE
+Trend = -2.78 degrees from North in Clockwise direction Plunge = 70.98degrees  A=356° | NNW
+Trend = -15.84 degrees from North in Clockwise direction Plunge = 72.80degrees  A= 22° |   N
+Trend = -1.18 degrees from North in Clockwise direction Plunge = 72.09degrees  A= 19° |   N
+Trend = 3.70 degrees from North in Clockwise direction Plunge = 70.83degrees  A= 19° |   N
+Trend = -5.55 degrees from North in Clockwise direction Plunge = 68.83degrees  A= 14° |   N
+Trend = 6.33 degrees from North in Clockwise direction Plunge = 73.68degrees  A=  6° |   N
+Trend = 20.94 degrees from North in Clockwise direction Plunge = 70.16degrees  A=290° |   W
+Trend = 13.36 degrees from North in Clockwise direction Plunge = 71.14degrees  A=340° | NNW
+Trend = 20.51 degrees from North in Clockwise direction Plunge = 65.24degrees  A=285° |   W
+Trend = 13.54 degrees from North in Clockwise direction Plunge = 69.13degrees  A=142° |  SE
+Trend = 7.88 degrees from North in Clockwise direction Plunge = 69.04degrees  A= 59° |  NE
+Trend = 7.91 degrees from North in Clockwise direction Plunge = 67.68degrees  A=328° |  NW
+Trend = 14.81 degrees from North in Clockwise direction Plunge = 70.42degrees  A=  6° |   N
+Trend = 13.13 degrees from North in Clockwise direction Plunge = 69.86degrees  A=  0° |   N
+Trend = 20.58 degrees from North in Clockwise direction Plunge = 72.08degrees  A=343° | NNW
+Trend = 19.92 degrees from North in Clockwise direction Plunge = 72.91degrees  A=164° | SSE
+Trend = 29.18 degrees from North in Clockwise direction Plunge = 73.82degrees  A=177° | SSE
+Trend = 19.62 degrees from North in Clockwise direction Plunge = 73.32degrees  A=355° | NNW
+Trend = 25.45 degrees from North in Clockwise direction Plunge = 74.06degrees  A=345° | NNW
+Trend = 14.72 degrees from North in Clockwise direction Plunge = 72.17degrees  A=345° | NNW
+Trend = 14.79 degrees from North in Clockwise direction Plunge = 70.08degrees  A=345° | NNW
+Trend = 19.47 degrees from North in Clockwise direction Plunge = 72.37degrees  A= 68° | ENE
+Trend = 12.29 degrees from North in Clockwise direction Plunge = 69.62degrees  A= 69° | ENE
+Trend = 12.07 degrees from North in Clockwise direction Plunge = 69.73degrees  A= 68° | ENE
+Trend = 14.47 degrees from North in Clockwise direction Plunge = 71.74degrees  A= 68° | ENE
+Trend = 18.07 degrees from North in Clockwise direction Plunge = 72.07degrees  A= 68° | ENE
+Trend = 16.43 degrees from North in Clockwise direction Plunge = 73.56degrees  A= 68° | ENE
+Trend = 17.07 degrees from North in Clockwise direction Plunge = 70.84degrees  A= 68° | ENE
+Trend = 18.41 degrees from North in Clockwise direction Plunge = 71.67degrees  A= 68° | ENE
+Trend = 12.14 degrees from North in Clockwise direction Plunge = 70.55degrees  A= 67° |  NE
+Trend = 20.18 degrees from North in Clockwise direction Plunge = 71.58degrees  A= 68° | ENE
